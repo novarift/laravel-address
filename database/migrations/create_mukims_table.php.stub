@@ -13,7 +13,7 @@ return new class extends Migration
 
     public function __construct()
     {
-        $this->table = config('address.tables.mukims');
+        $this->table = config('address.tables.mukim');
         $this->stateModel = config('address.models.state');
     }
 
