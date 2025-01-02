@@ -1,0 +1,58 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    protected string $table;
+    protected string $countryModel;
+
+    public function __construct()
+    {
+        $this->table = config('address.tables.address');
+        $this->countryModel = config('address.models.country');
+    }
+
+    public function up(): void
+    {
+        Schema::create($this->table, function (Blueprint $table) {
+
+            $table->id();
+
+            $table->foreignIdFor($this->countryModel)
+                ->index()
+                ->nullable()
+                ->constrained((new $this->countryModel)->getTable())
+                ->nullOnDelete();
+
+            $table->morphs('addressable');
+
+            $table->string('street_1');
+            $table->string('street_2')->nullable();
+            $table->string('street_3')->nullable();
+
+            $table->string('city');
+
+            $table->string('post_code');
+
+            $table->string('state');
+
+            $table->json('properties');
+
+            $table->boolean('is_primary')->default(false)->index();
+            $table->boolean('is_billing')->default(false)->index();
+            $table->boolean('is_shipping')->default(false)->index();
+
+            $table->timestamps();
+            $table->softDeletes();
+
+        });
+    }
+
+    public function down(): void
+    {
+        Schema::dropIfExists($this->table);
+    }
+};
