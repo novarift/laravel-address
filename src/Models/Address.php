@@ -19,13 +19,14 @@ class Address extends Model
         'addressable_type',
         'addressable_id',
         'country_id',
+        'state_id',
         'types',
         'street_1',
         'street_2',
         'street_3',
-        'post_code',
-        'city',
-        'state',
+        'postcode',
+        'latitude',
+        'longitude',
         'properties',
     ];
 
@@ -59,8 +60,26 @@ class Address extends Model
         return $this->belongsTo(config('address.models.country'));
     }
 
+    public function state(): BelongsTo
+    {
+        return $this->belongsTo(config('address.models.state'));
+    }
+
     public function scopeOfType(Builder $query, Arrayable|array|string $types): void
     {
         $query->whereIn('types', collect($types));
+    }
+
+    public function formatted(bool $country = true): string
+    {
+        return collect([
+                $this->street_1,
+                $this->street_2,
+                $this->street_3,
+                $this->postcode,
+                $this->state->name,
+                $country ? $this->country->name : null,
+            ])->filter()
+            ->join(', ');
     }
 }

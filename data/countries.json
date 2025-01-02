@@ -1,1247 +1,1247 @@
 [
     {
         "name": "Afghanistan",
-        "code": "AF",
-        "alpha_3": "AFG"
+        "alpha_2": "AF",
+        "code": "AFG"
     },
     {
         "name": "\u00c5land Islands",
-        "code": "AX",
-        "alpha_3": "ALA"
+        "alpha_2": "AX",
+        "code": "ALA"
     },
     {
         "name": "Albania",
-        "code": "AL",
-        "alpha_3": "ALB"
+        "alpha_2": "AL",
+        "code": "ALB"
     },
     {
         "name": "Algeria",
-        "code": "DZ",
-        "alpha_3": "DZA"
+        "alpha_2": "DZ",
+        "code": "DZA"
     },
     {
         "name": "American Samoa",
-        "code": "AS",
-        "alpha_3": "ASM"
+        "alpha_2": "AS",
+        "code": "ASM"
     },
     {
         "name": "Andorra",
-        "code": "AD",
-        "alpha_3": "AND"
+        "alpha_2": "AD",
+        "code": "AND"
     },
     {
         "name": "Angola",
-        "code": "AO",
-        "alpha_3": "AGO"
+        "alpha_2": "AO",
+        "code": "AGO"
     },
     {
         "name": "Anguilla",
-        "code": "AI",
-        "alpha_3": "AIA"
+        "alpha_2": "AI",
+        "code": "AIA"
     },
     {
         "name": "Antarctica",
-        "code": "AQ",
-        "alpha_3": "ATA"
+        "alpha_2": "AQ",
+        "code": "ATA"
     },
     {
         "name": "Antigua and Barbuda",
-        "code": "AG",
-        "alpha_3": "ATG"
+        "alpha_2": "AG",
+        "code": "ATG"
     },
     {
         "name": "Argentina",
-        "code": "AR",
-        "alpha_3": "ARG"
+        "alpha_2": "AR",
+        "code": "ARG"
     },
     {
         "name": "Armenia",
-        "code": "AM",
-        "alpha_3": "ARM"
+        "alpha_2": "AM",
+        "code": "ARM"
     },
     {
         "name": "Aruba",
-        "code": "AW",
-        "alpha_3": "ABW"
+        "alpha_2": "AW",
+        "code": "ABW"
     },
     {
         "name": "Australia",
-        "code": "AU",
-        "alpha_3": "AUS"
+        "alpha_2": "AU",
+        "code": "AUS"
     },
     {
         "name": "Austria",
-        "code": "AT",
-        "alpha_3": "AUT"
+        "alpha_2": "AT",
+        "code": "AUT"
     },
     {
         "name": "Azerbaijan",
-        "code": "AZ",
-        "alpha_3": "AZE"
+        "alpha_2": "AZ",
+        "code": "AZE"
     },
     {
         "name": "Bahamas",
-        "code": "BS",
-        "alpha_3": "BHS"
+        "alpha_2": "BS",
+        "code": "BHS"
     },
     {
         "name": "Bahrain",
-        "code": "BH",
-        "alpha_3": "BHR"
+        "alpha_2": "BH",
+        "code": "BHR"
     },
     {
         "name": "Bangladesh",
-        "code": "BD",
-        "alpha_3": "BGD"
+        "alpha_2": "BD",
+        "code": "BGD"
     },
     {
         "name": "Barbados",
-        "code": "BB",
-        "alpha_3": "BRB"
+        "alpha_2": "BB",
+        "code": "BRB"
     },
     {
         "name": "Belarus",
-        "code": "BY",
-        "alpha_3": "BLR"
+        "alpha_2": "BY",
+        "code": "BLR"
     },
     {
         "name": "Belgium",
-        "code": "BE",
-        "alpha_3": "BEL"
+        "alpha_2": "BE",
+        "code": "BEL"
     },
     {
         "name": "Belize",
-        "code": "BZ",
-        "alpha_3": "BLZ"
+        "alpha_2": "BZ",
+        "code": "BLZ"
     },
     {
         "name": "Benin",
-        "code": "BJ",
-        "alpha_3": "BEN"
+        "alpha_2": "BJ",
+        "code": "BEN"
     },
     {
         "name": "Bermuda",
-        "code": "BM",
-        "alpha_3": "BMU"
+        "alpha_2": "BM",
+        "code": "BMU"
     },
     {
         "name": "Bhutan",
-        "code": "BT",
-        "alpha_3": "BTN"
+        "alpha_2": "BT",
+        "code": "BTN"
     },
     {
         "name": "Bolivia, Plurinational State of",
-        "code": "BO",
-        "alpha_3": "BOL"
+        "alpha_2": "BO",
+        "code": "BOL"
     },
     {
         "name": "Bonaire, Sint Eustatius and Saba",
-        "code": "BQ",
-        "alpha_3": "BES"
+        "alpha_2": "BQ",
+        "code": "BES"
     },
     {
         "name": "Bosnia and Herzegovina",
-        "code": "BA",
-        "alpha_3": "BIH"
+        "alpha_2": "BA",
+        "code": "BIH"
     },
     {
         "name": "Botswana",
-        "code": "BW",
-        "alpha_3": "BWA"
+        "alpha_2": "BW",
+        "code": "BWA"
     },
     {
         "name": "Bouvet Island",
-        "code": "BV",
-        "alpha_3": "BVT"
+        "alpha_2": "BV",
+        "code": "BVT"
     },
     {
         "name": "Brazil",
-        "code": "BR",
-        "alpha_3": "BRA"
+        "alpha_2": "BR",
+        "code": "BRA"
     },
     {
         "name": "British Indian Ocean Territory",
-        "code": "IO",
-        "alpha_3": "IOT"
+        "alpha_2": "IO",
+        "code": "IOT"
     },
     {
         "name": "Brunei Darussalam",
-        "code": "BN",
-        "alpha_3": "BRN"
+        "alpha_2": "BN",
+        "code": "BRN"
     },
     {
         "name": "Bulgaria",
-        "code": "BG",
-        "alpha_3": "BGR"
+        "alpha_2": "BG",
+        "code": "BGR"
     },
     {
         "name": "Burkina Faso",
-        "code": "BF",
-        "alpha_3": "BFA"
+        "alpha_2": "BF",
+        "code": "BFA"
     },
     {
         "name": "Burundi",
-        "code": "BI",
-        "alpha_3": "BDI"
+        "alpha_2": "BI",
+        "code": "BDI"
     },
     {
         "name": "Cabo Verde",
-        "code": "CV",
-        "alpha_3": "CPV"
+        "alpha_2": "CV",
+        "code": "CPV"
     },
     {
         "name": "Cambodia",
-        "code": "KH",
-        "alpha_3": "KHM"
+        "alpha_2": "KH",
+        "code": "KHM"
     },
     {
         "name": "Cameroon",
-        "code": "CM",
-        "alpha_3": "CMR"
+        "alpha_2": "CM",
+        "code": "CMR"
     },
     {
         "name": "Canada",
-        "code": "CA",
-        "alpha_3": "CAN"
+        "alpha_2": "CA",
+        "code": "CAN"
     },
     {
         "name": "Cayman Islands",
-        "code": "KY",
-        "alpha_3": "CYM"
+        "alpha_2": "KY",
+        "code": "CYM"
     },
     {
         "name": "Central African Republic",
-        "code": "CF",
-        "alpha_3": "CAF"
+        "alpha_2": "CF",
+        "code": "CAF"
     },
     {
         "name": "Chad",
-        "code": "TD",
-        "alpha_3": "TCD"
+        "alpha_2": "TD",
+        "code": "TCD"
     },
     {
         "name": "Chile",
-        "code": "CL",
-        "alpha_3": "CHL"
+        "alpha_2": "CL",
+        "code": "CHL"
     },
     {
         "name": "China",
-        "code": "CN",
-        "alpha_3": "CHN"
+        "alpha_2": "CN",
+        "code": "CHN"
     },
     {
         "name": "Christmas Island",
-        "code": "CX",
-        "alpha_3": "CXR"
+        "alpha_2": "CX",
+        "code": "CXR"
     },
     {
         "name": "Cocos (Keeling) Islands",
-        "code": "CC",
-        "alpha_3": "CCK"
+        "alpha_2": "CC",
+        "code": "CCK"
     },
     {
         "name": "Colombia",
-        "code": "CO",
-        "alpha_3": "COL"
+        "alpha_2": "CO",
+        "code": "COL"
     },
     {
         "name": "Comoros",
-        "code": "KM",
-        "alpha_3": "COM"
+        "alpha_2": "KM",
+        "code": "COM"
     },
     {
         "name": "Congo",
-        "code": "CG",
-        "alpha_3": "COG"
+        "alpha_2": "CG",
+        "code": "COG"
     },
     {
         "name": "Congo, Democratic Republic of the",
-        "code": "CD",
-        "alpha_3": "COD"
+        "alpha_2": "CD",
+        "code": "COD"
     },
     {
         "name": "Cook Islands",
-        "code": "CK",
-        "alpha_3": "COK"
+        "alpha_2": "CK",
+        "code": "COK"
     },
     {
         "name": "Costa Rica",
-        "code": "CR",
-        "alpha_3": "CRI"
+        "alpha_2": "CR",
+        "code": "CRI"
     },
     {
         "name": "C\u00f4te d'Ivoire",
-        "code": "CI",
-        "alpha_3": "CIV"
+        "alpha_2": "CI",
+        "code": "CIV"
     },
     {
         "name": "Croatia",
-        "code": "HR",
-        "alpha_3": "HRV"
+        "alpha_2": "HR",
+        "code": "HRV"
     },
     {
         "name": "Cuba",
-        "code": "CU",
-        "alpha_3": "CUB"
+        "alpha_2": "CU",
+        "code": "CUB"
     },
     {
         "name": "Cura\u00e7ao",
-        "code": "CW",
-        "alpha_3": "CUW"
+        "alpha_2": "CW",
+        "code": "CUW"
     },
     {
         "name": "Cyprus",
-        "code": "CY",
-        "alpha_3": "CYP"
+        "alpha_2": "CY",
+        "code": "CYP"
     },
     {
         "name": "Czechia",
-        "code": "CZ",
-        "alpha_3": "CZE"
+        "alpha_2": "CZ",
+        "code": "CZE"
     },
     {
         "name": "Denmark",
-        "code": "DK",
-        "alpha_3": "DNK"
+        "alpha_2": "DK",
+        "code": "DNK"
     },
     {
         "name": "Djibouti",
-        "code": "DJ",
-        "alpha_3": "DJI"
+        "alpha_2": "DJ",
+        "code": "DJI"
     },
     {
         "name": "Dominica",
-        "code": "DM",
-        "alpha_3": "DMA"
+        "alpha_2": "DM",
+        "code": "DMA"
     },
     {
         "name": "Dominican Republic",
-        "code": "DO",
-        "alpha_3": "DOM"
+        "alpha_2": "DO",
+        "code": "DOM"
     },
     {
         "name": "Ecuador",
-        "code": "EC",
-        "alpha_3": "ECU"
+        "alpha_2": "EC",
+        "code": "ECU"
     },
     {
         "name": "Egypt",
-        "code": "EG",
-        "alpha_3": "EGY"
+        "alpha_2": "EG",
+        "code": "EGY"
     },
     {
         "name": "El Salvador",
-        "code": "SV",
-        "alpha_3": "SLV"
+        "alpha_2": "SV",
+        "code": "SLV"
     },
     {
         "name": "Equatorial Guinea",
-        "code": "GQ",
-        "alpha_3": "GNQ"
+        "alpha_2": "GQ",
+        "code": "GNQ"
     },
     {
         "name": "Eritrea",
-        "code": "ER",
-        "alpha_3": "ERI"
+        "alpha_2": "ER",
+        "code": "ERI"
     },
     {
         "name": "Estonia",
-        "code": "EE",
-        "alpha_3": "EST"
+        "alpha_2": "EE",
+        "code": "EST"
     },
     {
         "name": "Eswatini",
-        "code": "SZ",
-        "alpha_3": "SWZ"
+        "alpha_2": "SZ",
+        "code": "SWZ"
     },
     {
         "name": "Ethiopia",
-        "code": "ET",
-        "alpha_3": "ETH"
+        "alpha_2": "ET",
+        "code": "ETH"
     },
     {
         "name": "Falkland Islands (Malvinas)",
-        "code": "FK",
-        "alpha_3": "FLK"
+        "alpha_2": "FK",
+        "code": "FLK"
     },
     {
         "name": "Faroe Islands",
-        "code": "FO",
-        "alpha_3": "FRO"
+        "alpha_2": "FO",
+        "code": "FRO"
     },
     {
         "name": "Fiji",
-        "code": "FJ",
-        "alpha_3": "FJI"
+        "alpha_2": "FJ",
+        "code": "FJI"
     },
     {
         "name": "Finland",
-        "code": "FI",
-        "alpha_3": "FIN"
+        "alpha_2": "FI",
+        "code": "FIN"
     },
     {
         "name": "France",
-        "code": "FR",
-        "alpha_3": "FRA"
+        "alpha_2": "FR",
+        "code": "FRA"
     },
     {
         "name": "French Guiana",
-        "code": "GF",
-        "alpha_3": "GUF"
+        "alpha_2": "GF",
+        "code": "GUF"
     },
     {
         "name": "French Polynesia",
-        "code": "PF",
-        "alpha_3": "PYF"
+        "alpha_2": "PF",
+        "code": "PYF"
     },
     {
         "name": "French Southern Territories",
-        "code": "TF",
-        "alpha_3": "ATF"
+        "alpha_2": "TF",
+        "code": "ATF"
     },
     {
         "name": "Gabon",
-        "code": "GA",
-        "alpha_3": "GAB"
+        "alpha_2": "GA",
+        "code": "GAB"
     },
     {
         "name": "Gambia",
-        "code": "GM",
-        "alpha_3": "GMB"
+        "alpha_2": "GM",
+        "code": "GMB"
     },
     {
         "name": "Georgia",
-        "code": "GE",
-        "alpha_3": "GEO"
+        "alpha_2": "GE",
+        "code": "GEO"
     },
     {
         "name": "Germany",
-        "code": "DE",
-        "alpha_3": "DEU"
+        "alpha_2": "DE",
+        "code": "DEU"
     },
     {
         "name": "Ghana",
-        "code": "GH",
-        "alpha_3": "GHA"
+        "alpha_2": "GH",
+        "code": "GHA"
     },
     {
         "name": "Gibraltar",
-        "code": "GI",
-        "alpha_3": "GIB"
+        "alpha_2": "GI",
+        "code": "GIB"
     },
     {
         "name": "Greece",
-        "code": "GR",
-        "alpha_3": "GRC"
+        "alpha_2": "GR",
+        "code": "GRC"
     },
     {
         "name": "Greenland",
-        "code": "GL",
-        "alpha_3": "GRL"
+        "alpha_2": "GL",
+        "code": "GRL"
     },
     {
         "name": "Grenada",
-        "code": "GD",
-        "alpha_3": "GRD"
+        "alpha_2": "GD",
+        "code": "GRD"
     },
     {
         "name": "Guadeloupe",
-        "code": "GP",
-        "alpha_3": "GLP"
+        "alpha_2": "GP",
+        "code": "GLP"
     },
     {
         "name": "Guam",
-        "code": "GU",
-        "alpha_3": "GUM"
+        "alpha_2": "GU",
+        "code": "GUM"
     },
     {
         "name": "Guatemala",
-        "code": "GT",
-        "alpha_3": "GTM"
+        "alpha_2": "GT",
+        "code": "GTM"
     },
     {
         "name": "Guernsey",
-        "code": "GG",
-        "alpha_3": "GGY"
+        "alpha_2": "GG",
+        "code": "GGY"
     },
     {
         "name": "Guinea",
-        "code": "GN",
-        "alpha_3": "GIN"
+        "alpha_2": "GN",
+        "code": "GIN"
     },
     {
         "name": "Guinea-Bissau",
-        "code": "GW",
-        "alpha_3": "GNB"
+        "alpha_2": "GW",
+        "code": "GNB"
     },
     {
         "name": "Guyana",
-        "code": "GY",
-        "alpha_3": "GUY"
+        "alpha_2": "GY",
+        "code": "GUY"
     },
     {
         "name": "Haiti",
-        "code": "HT",
-        "alpha_3": "HTI"
+        "alpha_2": "HT",
+        "code": "HTI"
     },
     {
         "name": "Heard Island and McDonald Islands",
-        "code": "HM",
-        "alpha_3": "HMD"
+        "alpha_2": "HM",
+        "code": "HMD"
     },
     {
         "name": "Holy See",
-        "code": "VA",
-        "alpha_3": "VAT"
+        "alpha_2": "VA",
+        "code": "VAT"
     },
     {
         "name": "Honduras",
-        "code": "HN",
-        "alpha_3": "HND"
+        "alpha_2": "HN",
+        "code": "HND"
     },
     {
         "name": "Hong Kong",
-        "code": "HK",
-        "alpha_3": "HKG"
+        "alpha_2": "HK",
+        "code": "HKG"
     },
     {
         "name": "Hungary",
-        "code": "HU",
-        "alpha_3": "HUN"
+        "alpha_2": "HU",
+        "code": "HUN"
     },
     {
         "name": "Iceland",
-        "code": "IS",
-        "alpha_3": "ISL"
+        "alpha_2": "IS",
+        "code": "ISL"
     },
     {
         "name": "India",
-        "code": "IN",
-        "alpha_3": "IND"
+        "alpha_2": "IN",
+        "code": "IND"
     },
     {
         "name": "Indonesia",
-        "code": "ID",
-        "alpha_3": "IDN"
+        "alpha_2": "ID",
+        "code": "IDN"
     },
     {
         "name": "Iran, Islamic Republic of",
-        "code": "IR",
-        "alpha_3": "IRN"
+        "alpha_2": "IR",
+        "code": "IRN"
     },
     {
         "name": "Iraq",
-        "code": "IQ",
-        "alpha_3": "IRQ"
+        "alpha_2": "IQ",
+        "code": "IRQ"
     },
     {
         "name": "Ireland",
-        "code": "IE",
-        "alpha_3": "IRL"
+        "alpha_2": "IE",
+        "code": "IRL"
     },
     {
         "name": "Isle of Man",
-        "code": "IM",
-        "alpha_3": "IMN"
+        "alpha_2": "IM",
+        "code": "IMN"
     },
     {
         "name": "Israel",
-        "code": "IL",
-        "alpha_3": "ISR"
+        "alpha_2": "IL",
+        "code": "ISR"
     },
     {
         "name": "Italy",
-        "code": "IT",
-        "alpha_3": "ITA"
+        "alpha_2": "IT",
+        "code": "ITA"
     },
     {
         "name": "Jamaica",
-        "code": "JM",
-        "alpha_3": "JAM"
+        "alpha_2": "JM",
+        "code": "JAM"
     },
     {
         "name": "Japan",
-        "code": "JP",
-        "alpha_3": "JPN"
+        "alpha_2": "JP",
+        "code": "JPN"
     },
     {
         "name": "Jersey",
-        "code": "JE",
-        "alpha_3": "JEY"
+        "alpha_2": "JE",
+        "code": "JEY"
     },
     {
         "name": "Jordan",
-        "code": "JO",
-        "alpha_3": "JOR"
+        "alpha_2": "JO",
+        "code": "JOR"
     },
     {
         "name": "Kazakhstan",
-        "code": "KZ",
-        "alpha_3": "KAZ"
+        "alpha_2": "KZ",
+        "code": "KAZ"
     },
     {
         "name": "Kenya",
-        "code": "KE",
-        "alpha_3": "KEN"
+        "alpha_2": "KE",
+        "code": "KEN"
     },
     {
         "name": "Kiribati",
-        "code": "KI",
-        "alpha_3": "KIR"
+        "alpha_2": "KI",
+        "code": "KIR"
     },
     {
         "name": "Korea, Democratic People's Republic of",
-        "code": "KP",
-        "alpha_3": "PRK"
+        "alpha_2": "KP",
+        "code": "PRK"
     },
     {
         "name": "Korea, Republic of",
-        "code": "KR",
-        "alpha_3": "KOR"
+        "alpha_2": "KR",
+        "code": "KOR"
     },
     {
         "name": "Kuwait",
-        "code": "KW",
-        "alpha_3": "KWT"
+        "alpha_2": "KW",
+        "code": "KWT"
     },
     {
         "name": "Kyrgyzstan",
-        "code": "KG",
-        "alpha_3": "KGZ"
+        "alpha_2": "KG",
+        "code": "KGZ"
     },
     {
         "name": "Lao People's Democratic Republic",
-        "code": "LA",
-        "alpha_3": "LAO"
+        "alpha_2": "LA",
+        "code": "LAO"
     },
     {
         "name": "Latvia",
-        "code": "LV",
-        "alpha_3": "LVA"
+        "alpha_2": "LV",
+        "code": "LVA"
     },
     {
         "name": "Lebanon",
-        "code": "LB",
-        "alpha_3": "LBN"
+        "alpha_2": "LB",
+        "code": "LBN"
     },
     {
         "name": "Lesotho",
-        "code": "LS",
-        "alpha_3": "LSO"
+        "alpha_2": "LS",
+        "code": "LSO"
     },
     {
         "name": "Liberia",
-        "code": "LR",
-        "alpha_3": "LBR"
+        "alpha_2": "LR",
+        "code": "LBR"
     },
     {
         "name": "Libya",
-        "code": "LY",
-        "alpha_3": "LBY"
+        "alpha_2": "LY",
+        "code": "LBY"
     },
     {
         "name": "Liechtenstein",
-        "code": "LI",
-        "alpha_3": "LIE"
+        "alpha_2": "LI",
+        "code": "LIE"
     },
     {
         "name": "Lithuania",
-        "code": "LT",
-        "alpha_3": "LTU"
+        "alpha_2": "LT",
+        "code": "LTU"
     },
     {
         "name": "Luxembourg",
-        "code": "LU",
-        "alpha_3": "LUX"
+        "alpha_2": "LU",
+        "code": "LUX"
     },
     {
         "name": "Macao",
-        "code": "MO",
-        "alpha_3": "MAC"
+        "alpha_2": "MO",
+        "code": "MAC"
     },
     {
         "name": "Madagascar",
-        "code": "MG",
-        "alpha_3": "MDG"
+        "alpha_2": "MG",
+        "code": "MDG"
     },
     {
         "name": "Malawi",
-        "code": "MW",
-        "alpha_3": "MWI"
+        "alpha_2": "MW",
+        "code": "MWI"
     },
     {
         "name": "Malaysia",
-        "code": "MY",
-        "alpha_3": "MYS"
+        "alpha_2": "MY",
+        "code": "MYS"
     },
     {
         "name": "Maldives",
-        "code": "MV",
-        "alpha_3": "MDV"
+        "alpha_2": "MV",
+        "code": "MDV"
     },
     {
         "name": "Mali",
-        "code": "ML",
-        "alpha_3": "MLI"
+        "alpha_2": "ML",
+        "code": "MLI"
     },
     {
         "name": "Malta",
-        "code": "MT",
-        "alpha_3": "MLT"
+        "alpha_2": "MT",
+        "code": "MLT"
     },
     {
         "name": "Marshall Islands",
-        "code": "MH",
-        "alpha_3": "MHL"
+        "alpha_2": "MH",
+        "code": "MHL"
     },
     {
         "name": "Martinique",
-        "code": "MQ",
-        "alpha_3": "MTQ"
+        "alpha_2": "MQ",
+        "code": "MTQ"
     },
     {
         "name": "Mauritania",
-        "code": "MR",
-        "alpha_3": "MRT"
+        "alpha_2": "MR",
+        "code": "MRT"
     },
     {
         "name": "Mauritius",
-        "code": "MU",
-        "alpha_3": "MUS"
+        "alpha_2": "MU",
+        "code": "MUS"
     },
     {
         "name": "Mayotte",
-        "code": "YT",
-        "alpha_3": "MYT"
+        "alpha_2": "YT",
+        "code": "MYT"
     },
     {
         "name": "Mexico",
-        "code": "MX",
-        "alpha_3": "MEX"
+        "alpha_2": "MX",
+        "code": "MEX"
     },
     {
         "name": "Micronesia, Federated States of",
-        "code": "FM",
-        "alpha_3": "FSM"
+        "alpha_2": "FM",
+        "code": "FSM"
     },
     {
         "name": "Moldova, Republic of",
-        "code": "MD",
-        "alpha_3": "MDA"
+        "alpha_2": "MD",
+        "code": "MDA"
     },
     {
         "name": "Monaco",
-        "code": "MC",
-        "alpha_3": "MCO"
+        "alpha_2": "MC",
+        "code": "MCO"
     },
     {
         "name": "Mongolia",
-        "code": "MN",
-        "alpha_3": "MNG"
+        "alpha_2": "MN",
+        "code": "MNG"
     },
     {
         "name": "Montenegro",
-        "code": "ME",
-        "alpha_3": "MNE"
+        "alpha_2": "ME",
+        "code": "MNE"
     },
     {
         "name": "Montserrat",
-        "code": "MS",
-        "alpha_3": "MSR"
+        "alpha_2": "MS",
+        "code": "MSR"
     },
     {
         "name": "Morocco",
-        "code": "MA",
-        "alpha_3": "MAR"
+        "alpha_2": "MA",
+        "code": "MAR"
     },
     {
         "name": "Mozambique",
-        "code": "MZ",
-        "alpha_3": "MOZ"
+        "alpha_2": "MZ",
+        "code": "MOZ"
     },
     {
         "name": "Myanmar",
-        "code": "MM",
-        "alpha_3": "MMR"
+        "alpha_2": "MM",
+        "code": "MMR"
     },
     {
         "name": "Namibia",
-        "code": "NA",
-        "alpha_3": "NAM"
+        "alpha_2": "NA",
+        "code": "NAM"
     },
     {
         "name": "Nauru",
-        "code": "NR",
-        "alpha_3": "NRU"
+        "alpha_2": "NR",
+        "code": "NRU"
     },
     {
         "name": "Nepal",
-        "code": "NP",
-        "alpha_3": "NPL"
+        "alpha_2": "NP",
+        "code": "NPL"
     },
     {
         "name": "Netherlands, Kingdom of the",
-        "code": "NL",
-        "alpha_3": "NLD"
+        "alpha_2": "NL",
+        "code": "NLD"
     },
     {
         "name": "New Caledonia",
-        "code": "NC",
-        "alpha_3": "NCL"
+        "alpha_2": "NC",
+        "code": "NCL"
     },
     {
         "name": "New Zealand",
-        "code": "NZ",
-        "alpha_3": "NZL"
+        "alpha_2": "NZ",
+        "code": "NZL"
     },
     {
         "name": "Nicaragua",
-        "code": "NI",
-        "alpha_3": "NIC"
+        "alpha_2": "NI",
+        "code": "NIC"
     },
     {
         "name": "Niger",
-        "code": "NE",
-        "alpha_3": "NER"
+        "alpha_2": "NE",
+        "code": "NER"
     },
     {
         "name": "Nigeria",
-        "code": "NG",
-        "alpha_3": "NGA"
+        "alpha_2": "NG",
+        "code": "NGA"
     },
     {
         "name": "Niue",
-        "code": "NU",
-        "alpha_3": "NIU"
+        "alpha_2": "NU",
+        "code": "NIU"
     },
     {
         "name": "Norfolk Island",
-        "code": "NF",
-        "alpha_3": "NFK"
+        "alpha_2": "NF",
+        "code": "NFK"
     },
     {
         "name": "North Macedonia",
-        "code": "MK",
-        "alpha_3": "MKD"
+        "alpha_2": "MK",
+        "code": "MKD"
     },
     {
         "name": "Northern Mariana Islands",
-        "code": "MP",
-        "alpha_3": "MNP"
+        "alpha_2": "MP",
+        "code": "MNP"
     },
     {
         "name": "Norway",
-        "code": "NO",
-        "alpha_3": "NOR"
+        "alpha_2": "NO",
+        "code": "NOR"
     },
     {
         "name": "Oman",
-        "code": "OM",
-        "alpha_3": "OMN"
+        "alpha_2": "OM",
+        "code": "OMN"
     },
     {
         "name": "Pakistan",
-        "code": "PK",
-        "alpha_3": "PAK"
+        "alpha_2": "PK",
+        "code": "PAK"
     },
     {
         "name": "Palau",
-        "code": "PW",
-        "alpha_3": "PLW"
+        "alpha_2": "PW",
+        "code": "PLW"
     },
     {
         "name": "Palestine, State of",
-        "code": "PS",
-        "alpha_3": "PSE"
+        "alpha_2": "PS",
+        "code": "PSE"
     },
     {
         "name": "Panama",
-        "code": "PA",
-        "alpha_3": "PAN"
+        "alpha_2": "PA",
+        "code": "PAN"
     },
     {
         "name": "Papua New Guinea",
-        "code": "PG",
-        "alpha_3": "PNG"
+        "alpha_2": "PG",
+        "code": "PNG"
     },
     {
         "name": "Paraguay",
-        "code": "PY",
-        "alpha_3": "PRY"
+        "alpha_2": "PY",
+        "code": "PRY"
     },
     {
         "name": "Peru",
-        "code": "PE",
-        "alpha_3": "PER"
+        "alpha_2": "PE",
+        "code": "PER"
     },
     {
         "name": "Philippines",
-        "code": "PH",
-        "alpha_3": "PHL"
+        "alpha_2": "PH",
+        "code": "PHL"
     },
     {
         "name": "Pitcairn",
-        "code": "PN",
-        "alpha_3": "PCN"
+        "alpha_2": "PN",
+        "code": "PCN"
     },
     {
         "name": "Poland",
-        "code": "PL",
-        "alpha_3": "POL"
+        "alpha_2": "PL",
+        "code": "POL"
     },
     {
         "name": "Portugal",
-        "code": "PT",
-        "alpha_3": "PRT"
+        "alpha_2": "PT",
+        "code": "PRT"
     },
     {
         "name": "Puerto Rico",
-        "code": "PR",
-        "alpha_3": "PRI"
+        "alpha_2": "PR",
+        "code": "PRI"
     },
     {
         "name": "Qatar",
-        "code": "QA",
-        "alpha_3": "QAT"
+        "alpha_2": "QA",
+        "code": "QAT"
     },
     {
         "name": "R\u00e9union",
-        "code": "RE",
-        "alpha_3": "REU"
+        "alpha_2": "RE",
+        "code": "REU"
     },
     {
         "name": "Romania",
-        "code": "RO",
-        "alpha_3": "ROU"
+        "alpha_2": "RO",
+        "code": "ROU"
     },
     {
         "name": "Russian Federation",
-        "code": "RU",
-        "alpha_3": "RUS"
+        "alpha_2": "RU",
+        "code": "RUS"
     },
     {
         "name": "Rwanda",
-        "code": "RW",
-        "alpha_3": "RWA"
+        "alpha_2": "RW",
+        "code": "RWA"
     },
     {
         "name": "Saint Barth\u00e9lemy",
-        "code": "BL",
-        "alpha_3": "BLM"
+        "alpha_2": "BL",
+        "code": "BLM"
     },
     {
         "name": "Saint Helena, Ascension and Tristan da Cunha",
-        "code": "SH",
-        "alpha_3": "SHN"
+        "alpha_2": "SH",
+        "code": "SHN"
     },
     {
         "name": "Saint Kitts and Nevis",
-        "code": "KN",
-        "alpha_3": "KNA"
+        "alpha_2": "KN",
+        "code": "KNA"
     },
     {
         "name": "Saint Lucia",
-        "code": "LC",
-        "alpha_3": "LCA"
+        "alpha_2": "LC",
+        "code": "LCA"
     },
     {
         "name": "Saint Martin (French part)",
-        "code": "MF",
-        "alpha_3": "MAF"
+        "alpha_2": "MF",
+        "code": "MAF"
     },
     {
         "name": "Saint Pierre and Miquelon",
-        "code": "PM",
-        "alpha_3": "SPM"
+        "alpha_2": "PM",
+        "code": "SPM"
     },
     {
         "name": "Saint Vincent and the Grenadines",
-        "code": "VC",
-        "alpha_3": "VCT"
+        "alpha_2": "VC",
+        "code": "VCT"
     },
     {
         "name": "Samoa",
-        "code": "WS",
-        "alpha_3": "WSM"
+        "alpha_2": "WS",
+        "code": "WSM"
     },
     {
         "name": "San Marino",
-        "code": "SM",
-        "alpha_3": "SMR"
+        "alpha_2": "SM",
+        "code": "SMR"
     },
     {
         "name": "Sao Tome and Principe",
-        "code": "ST",
-        "alpha_3": "STP"
+        "alpha_2": "ST",
+        "code": "STP"
     },
     {
         "name": "Saudi Arabia",
-        "code": "SA",
-        "alpha_3": "SAU"
+        "alpha_2": "SA",
+        "code": "SAU"
     },
     {
         "name": "Senegal",
-        "code": "SN",
-        "alpha_3": "SEN"
+        "alpha_2": "SN",
+        "code": "SEN"
     },
     {
         "name": "Serbia",
-        "code": "RS",
-        "alpha_3": "SRB"
+        "alpha_2": "RS",
+        "code": "SRB"
     },
     {
         "name": "Seychelles",
-        "code": "SC",
-        "alpha_3": "SYC"
+        "alpha_2": "SC",
+        "code": "SYC"
     },
     {
         "name": "Sierra Leone",
-        "code": "SL",
-        "alpha_3": "SLE"
+        "alpha_2": "SL",
+        "code": "SLE"
     },
     {
         "name": "Singapore",
-        "code": "SG",
-        "alpha_3": "SGP"
+        "alpha_2": "SG",
+        "code": "SGP"
     },
     {
         "name": "Sint Maarten (Dutch part)",
-        "code": "SX",
-        "alpha_3": "SXM"
+        "alpha_2": "SX",
+        "code": "SXM"
     },
     {
         "name": "Slovakia",
-        "code": "SK",
-        "alpha_3": "SVK"
+        "alpha_2": "SK",
+        "code": "SVK"
     },
     {
         "name": "Slovenia",
-        "code": "SI",
-        "alpha_3": "SVN"
+        "alpha_2": "SI",
+        "code": "SVN"
     },
     {
         "name": "Solomon Islands",
-        "code": "SB",
-        "alpha_3": "SLB"
+        "alpha_2": "SB",
+        "code": "SLB"
     },
     {
         "name": "Somalia",
-        "code": "SO",
-        "alpha_3": "SOM"
+        "alpha_2": "SO",
+        "code": "SOM"
     },
     {
         "name": "South Africa",
-        "code": "ZA",
-        "alpha_3": "ZAF"
+        "alpha_2": "ZA",
+        "code": "ZAF"
     },
     {
         "name": "South Georgia and the South Sandwich Islands",
-        "code": "GS",
-        "alpha_3": "SGS"
+        "alpha_2": "GS",
+        "code": "SGS"
     },
     {
         "name": "South Sudan",
-        "code": "SS",
-        "alpha_3": "SSD"
+        "alpha_2": "SS",
+        "code": "SSD"
     },
     {
         "name": "Spain",
-        "code": "ES",
-        "alpha_3": "ESP"
+        "alpha_2": "ES",
+        "code": "ESP"
     },
     {
         "name": "Sri Lanka",
-        "code": "LK",
-        "alpha_3": "LKA"
+        "alpha_2": "LK",
+        "code": "LKA"
     },
     {
         "name": "Sudan",
-        "code": "SD",
-        "alpha_3": "SDN"
+        "alpha_2": "SD",
+        "code": "SDN"
     },
     {
         "name": "Suriname",
-        "code": "SR",
-        "alpha_3": "SUR"
+        "alpha_2": "SR",
+        "code": "SUR"
     },
     {
         "name": "Svalbard and Jan Mayen",
-        "code": "SJ",
-        "alpha_3": "SJM"
+        "alpha_2": "SJ",
+        "code": "SJM"
     },
     {
         "name": "Sweden",
-        "code": "SE",
-        "alpha_3": "SWE"
+        "alpha_2": "SE",
+        "code": "SWE"
     },
     {
         "name": "Switzerland",
-        "code": "CH",
-        "alpha_3": "CHE"
+        "alpha_2": "CH",
+        "code": "CHE"
     },
     {
         "name": "Syrian Arab Republic",
-        "code": "SY",
-        "alpha_3": "SYR"
+        "alpha_2": "SY",
+        "code": "SYR"
     },
     {
         "name": "Taiwan, Province of China",
-        "code": "TW",
-        "alpha_3": "TWN"
+        "alpha_2": "TW",
+        "code": "TWN"
     },
     {
         "name": "Tajikistan",
-        "code": "TJ",
-        "alpha_3": "TJK"
+        "alpha_2": "TJ",
+        "code": "TJK"
     },
     {
         "name": "Tanzania, United Republic of",
-        "code": "TZ",
-        "alpha_3": "TZA"
+        "alpha_2": "TZ",
+        "code": "TZA"
     },
     {
         "name": "Thailand",
-        "code": "TH",
-        "alpha_3": "THA"
+        "alpha_2": "TH",
+        "code": "THA"
     },
     {
         "name": "Timor-Leste",
-        "code": "TL",
-        "alpha_3": "TLS"
+        "alpha_2": "TL",
+        "code": "TLS"
     },
     {
         "name": "Togo",
-        "code": "TG",
-        "alpha_3": "TGO"
+        "alpha_2": "TG",
+        "code": "TGO"
     },
     {
         "name": "Tokelau",
-        "code": "TK",
-        "alpha_3": "TKL"
+        "alpha_2": "TK",
+        "code": "TKL"
     },
     {
         "name": "Tonga",
-        "code": "TO",
-        "alpha_3": "TON"
+        "alpha_2": "TO",
+        "code": "TON"
     },
     {
         "name": "Trinidad and Tobago",
-        "code": "TT",
-        "alpha_3": "TTO"
+        "alpha_2": "TT",
+        "code": "TTO"
     },
     {
         "name": "Tunisia",
-        "code": "TN",
-        "alpha_3": "TUN"
+        "alpha_2": "TN",
+        "code": "TUN"
     },
     {
         "name": "T\u00fcrkiye",
-        "code": "TR",
-        "alpha_3": "TUR"
+        "alpha_2": "TR",
+        "code": "TUR"
     },
     {
         "name": "Turkmenistan",
-        "code": "TM",
-        "alpha_3": "TKM"
+        "alpha_2": "TM",
+        "code": "TKM"
     },
     {
         "name": "Turks and Caicos Islands",
-        "code": "TC",
-        "alpha_3": "TCA"
+        "alpha_2": "TC",
+        "code": "TCA"
     },
     {
         "name": "Tuvalu",
-        "code": "TV",
-        "alpha_3": "TUV"
+        "alpha_2": "TV",
+        "code": "TUV"
     },
     {
         "name": "Uganda",
-        "code": "UG",
-        "alpha_3": "UGA"
+        "alpha_2": "UG",
+        "code": "UGA"
     },
     {
         "name": "Ukraine",
-        "code": "UA",
-        "alpha_3": "UKR"
+        "alpha_2": "UA",
+        "code": "UKR"
     },
     {
         "name": "United Arab Emirates",
-        "code": "AE",
-        "alpha_3": "ARE"
+        "alpha_2": "AE",
+        "code": "ARE"
     },
     {
         "name": "United Kingdom of Great Britain and Northern Ireland",
-        "code": "GB",
-        "alpha_3": "GBR"
+        "alpha_2": "GB",
+        "code": "GBR"
     },
     {
         "name": "United States of America",
-        "code": "US",
-        "alpha_3": "USA"
+        "alpha_2": "US",
+        "code": "USA"
     },
     {
         "name": "United States Minor Outlying Islands",
-        "code": "UM",
-        "alpha_3": "UMI"
+        "alpha_2": "UM",
+        "code": "UMI"
     },
     {
         "name": "Uruguay",
-        "code": "UY",
-        "alpha_3": "URY"
+        "alpha_2": "UY",
+        "code": "URY"
     },
     {
         "name": "Uzbekistan",
-        "code": "UZ",
-        "alpha_3": "UZB"
+        "alpha_2": "UZ",
+        "code": "UZB"
     },
     {
         "name": "Vanuatu",
-        "code": "VU",
-        "alpha_3": "VUT"
+        "alpha_2": "VU",
+        "code": "VUT"
     },
     {
         "name": "Venezuela, Bolivarian Republic of",
-        "code": "VE",
-        "alpha_3": "VEN"
+        "alpha_2": "VE",
+        "code": "VEN"
     },
     {
         "name": "Viet Nam",
-        "code": "VN",
-        "alpha_3": "VNM"
+        "alpha_2": "VN",
+        "code": "VNM"
     },
     {
         "name": "Virgin Islands (British)",
-        "code": "VG",
-        "alpha_3": "VGB"
+        "alpha_2": "VG",
+        "code": "VGB"
     },
     {
         "name": "Virgin Islands (U.S.)",
-        "code": "VI",
-        "alpha_3": "VIR"
+        "alpha_2": "VI",
+        "code": "VIR"
     },
     {
         "name": "Wallis and Futuna",
-        "code": "WF",
-        "alpha_3": "WLF"
+        "alpha_2": "WF",
+        "code": "WLF"
     },
     {
         "name": "Western Sahara",
-        "code": "EH",
-        "alpha_3": "ESH"
+        "alpha_2": "EH",
+        "code": "ESH"
     },
     {
         "name": "Yemen",
-        "code": "YE",
-        "alpha_3": "YEM"
+        "alpha_2": "YE",
+        "code": "YEM"
     },
     {
         "name": "Zambia",
-        "code": "ZM",
-        "alpha_3": "ZMB"
+        "alpha_2": "ZM",
+        "code": "ZMB"
     },
     {
         "name": "Zimbabwe",
-        "code": "ZW",
-        "alpha_3": "ZWE"
+        "alpha_2": "ZW",
+        "code": "ZWE"
     }
 ]
