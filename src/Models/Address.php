@@ -4,6 +4,8 @@ declare(strict_types=1);
 
 namespace Novarift\Address\Models;
 
+use Illuminate\Contracts\Support\Arrayable;
+use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\MorphTo;
@@ -17,25 +19,25 @@ class Address extends Model
         'addressable_type',
         'addressable_id',
         'country_id',
+        'types',
         'street_1',
         'street_2',
         'street_3',
         'post_code',
         'city',
         'state',
-        'is_primary',
-        'is_billing',
-        'is_shipping',
         'properties',
     ];
 
     protected $attributes = [
+        'type' => '[]',
         'properties' => '[]',
     ];
 
     protected function casts(): array
     {
         return [
+            'type' => 'array',
             'properties' => 'array',
         ];
     }
@@ -55,5 +57,10 @@ class Address extends Model
     public function country(): BelongsTo
     {
         return $this->belongsTo(config('address.models.country'));
+    }
+
+    public function scopeOfType(Builder $query, Arrayable|array|string $types): void
+    {
+        $query->whereIn('types', collect($types));
     }
 }
