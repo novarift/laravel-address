@@ -73,13 +73,13 @@ class Address extends Model
     public function formatted(bool $country = true): string
     {
         return collect([
-                $this->street_1,
-                $this->street_2,
-                $this->street_3,
-                $this->postcode,
-                $this->state->name,
-                $country ? $this->country->name : null,
-            ])->filter()
+            $this->street_1,
+            $this->street_2,
+            $this->street_3,
+            $this->postcode,
+            $this->state->name,
+            $country ? $this->country->name : null,
+        ])->filter()
             ->join(', ');
     }
 }
