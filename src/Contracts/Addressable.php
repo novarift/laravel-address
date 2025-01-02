@@ -10,6 +10,8 @@ use Illuminate\Database\Eloquent\Relations\MorphOne;
 interface Addressable
 {
     public function getAddress(string $type): MorphOne;
+
     public function addresses(): MorphMany;
+
     public function address(): MorphOne;
 }
