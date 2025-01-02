@@ -17,7 +17,7 @@ class SeedCountriesCommand extends Command
     {
         $this->comment('Seeding countries...');
 
-        $countries = json_decode(file_get_contents(__DIR__ . '/../../data/countries.json'), true);
+        $countries = json_decode(file_get_contents(__DIR__.'/../../data/countries.json'), true);
 
         $total = count($countries);
 
