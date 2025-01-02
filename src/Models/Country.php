@@ -15,7 +15,7 @@ class Country extends Model
     protected $fillable = [
         'code',
         'name',
-        'alpha_3',
+        'alpha_2',
     ];
 
     public function __construct(array $attributes = [])
