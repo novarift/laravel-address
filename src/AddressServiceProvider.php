@@ -2,7 +2,7 @@
 
 namespace Novarift\Address;
 
-use Novarift\Address\Commands\AddressCommand;
+use Novarift\Address\Commands\SeedCountriesCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
 
@@ -17,6 +17,8 @@ class AddressServiceProvider extends PackageServiceProvider
             ->hasMigrations([
                 'create_countries_table',
                 'create_addresses_table',
-            ])->hasCommand(AddressCommand::class);
+            ])->hasCommands([
+                SeedCountriesCommand::class,
+            ]);
     }
 }
