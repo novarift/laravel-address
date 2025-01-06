@@ -41,22 +41,23 @@ class SeedCommand extends Command
 
                 with(new TwoColumnDetail($this->output))->render($country['name'], "$current/$total");
 
-                $this->states($country)?->each(fn (State $state) => $this->districts($state, $country));
+                $this->states($country);
+                $this->districts($country);
             });
 
         $this->comment('Done!');
     }
 
-    protected function states(Country $country): ?Collection
+    protected function states(Country $country): void
     {
         $file = "$this->PATH/countries/{$country->code}/states.json";
 
         if (! file_exists($file)) {
-            return null;
+            return;
         }
 
         if (($states = collect(json_decode(file_get_contents($file), true)))->isEmpty()) {
-            return null;
+            return;
         }
 
         $this->comment('Seeding states...');
@@ -64,46 +65,40 @@ class SeedCommand extends Command
         $progress = $this->output->createProgressBar($states->count());
         $progress->start();
 
-        $states = $states->map(function (array $state) use ($progress, $country) {
-            $state = config('address.models.state')::updateOrCreate(['country_id' => $country->id, 'code' => $state['code']], $state);
-
+        $states->each(function (array $state) use ($progress, $country) {
+            config('address.models.state')::updateOrCreate(['country_id' => $country->id, 'code' => $state['code']], $state);
             $progress->advance();
-
-            return $state;
         });
 
         $progress->finish();
-
-        return $states;
     }
 
-    protected function districts(State $state, Country $country): ?Collection
+    protected function districts(Country $country): void
     {
-        $file = "$this->PATH/countries/{$country->code}/states/{$state->code}/districts.json";
+        $collection = $country->states
+            ->mapWithKeys(fn (State $state) => [$state->id => "$this->PATH/countries/{$country->code}/states/{$state->code}/districts.json"])
+            ->filter(fn (string $file) => file_exists($file))
+            ->map(fn (string $file) => collect(json_decode(file_get_contents($file), true)))
+            ->filter(fn (Collection $collection) => $collection->isNotEmpty());
 
-        if (! file_exists($file)) {
-            return null;
-        }
-
-        if (($districts = collect(json_decode(file_get_contents($file), true)))->isEmpty()) {
-            return null;
+        if ($collection->isEmpty()) {
+            return;
         }
 
         $this->comment('Seeding districts...');
 
-        $progress = $this->output->createProgressBar($districts->count());
+        $progress = $this->output->createProgressBar($collection->flatten(1)->count());
         $progress->start();
 
-        $districts = $districts->map(function (array $district) use ($progress, $state) {
-            $district = config('address.models.district')::updateOrCreate(['state_id' => $state->code, 'code' => $district['code']], $district);
+        $collection->each(function (Collection $districts, int $state) use ($progress) {
+            $state = config('address.models.state')::find($state);
 
-            $progress->advance();
-
-            return $district;
+            return $districts->each(function (array $district) use ($progress, $state) {
+                config('address.models.district')::updateOrCreate(['state_id' => $state->id, 'code' => $district['code']], $district);
+                $progress->advance();
+            });
         });
 
         $progress->finish();
-
-        return $districts;
     }
 }
