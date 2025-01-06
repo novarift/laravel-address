@@ -71,6 +71,7 @@ class SeedCommand extends Command
         });
 
         $progress->finish();
+        $this->newLine();
     }
 
     protected function districts(Country $country): void
@@ -100,5 +101,6 @@ class SeedCommand extends Command
         });
 
         $progress->finish();
+        $this->newLine();
     }
 }
