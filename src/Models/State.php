@@ -31,6 +31,11 @@ class State extends Model
         return $this->belongsTo(config('address.models.state'));
     }
 
+    public function districts(): BelongsTo
+    {
+        return $this->belongsTo(config('address.models.district'));
+    }
+
     public function addresses(): HasMany
     {
         return $this->hasMany(config('address.models.address'));

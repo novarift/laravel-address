@@ -25,13 +25,13 @@ class Country extends Model
         $this->table = config('address.tables.country') ?: parent::getTable();
     }
 
-    public function addresses(): HasMany
-    {
-        return $this->hasMany(config('address.models.address'));
-    }
-
     public function states(): HasMany
     {
         return $this->hasMany(config('address.models.state'));
+    }
+
+    public function addresses(): HasMany
+    {
+        return $this->hasMany(config('address.models.address'));
     }
 }
