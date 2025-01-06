@@ -6,6 +6,7 @@ namespace Novarift\Address\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\HasMany;
+use Illuminate\Database\Eloquent\Relations\HasManyThrough;
 use Illuminate\Database\Eloquent\SoftDeletes;
 
 class Country extends Model
@@ -28,6 +29,16 @@ class Country extends Model
     public function states(): HasMany
     {
         return $this->hasMany(config('address.models.state'));
+    }
+
+    public function postOffices(): HasMany
+    {
+        return $this->hasMany(config('address.models.post-office'));
+    }
+
+    public function districts(): HasManyThrough
+    {
+        return $this->hasManyThrough(config('address.models.district'), config('address.models.state'));
     }
 
     public function addresses(): HasMany
