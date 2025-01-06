@@ -91,7 +91,7 @@ class SeedCommand extends Command
         $progress = $this->output->createProgressBar($districts->count());
         $progress->start();
 
-        $districts->each(function (array $district) use ($progress, $state, $country) {
+        $districts->each(function (array $district) use ($progress, $state) {
             config('address.models.district')::updateOrCreate(['state_id' => $state->code, 'code' => $district['code']], $district);
 
             $progress->advance();
