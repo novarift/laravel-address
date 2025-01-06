@@ -6,7 +6,6 @@ namespace Novarift\Address\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
-use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 use Illuminate\Database\Eloquent\SoftDeletes;
 
 class Mukim extends Model
@@ -14,7 +13,7 @@ class Mukim extends Model
     use SoftDeletes;
 
     protected $fillable = [
-        'state_id',
+        'district_id',
         'code',
         'name',
     ];
@@ -26,13 +25,8 @@ class Mukim extends Model
         $this->table = config('address.tables.mukim') ?: parent::getTable();
     }
 
-    public function state(): BelongsTo
+    public function district(): BelongsTo
     {
-        return $this->belongsTo(config('address.models.state'));
-    }
-
-    public function districts(): BelongsToMany
-    {
-        return $this->belongsToMany(config('address.models.district'));
+        return $this->belongsTo(config('address.models.district'));
     }
 }

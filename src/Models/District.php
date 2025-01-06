@@ -6,7 +6,7 @@ namespace Novarift\Address\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
-use Illuminate\Database\Eloquent\Relations\BelongsToMany;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Database\Eloquent\SoftDeletes;
 
 class District extends Model
@@ -14,7 +14,6 @@ class District extends Model
     use SoftDeletes;
 
     protected $fillable = [
-        'country_id',
         'state_id',
         'code',
         'name',
@@ -32,8 +31,8 @@ class District extends Model
         return $this->belongsTo(config('address.models.state'));
     }
 
-    public function mukims(): BelongsToMany
+    public function mukims(): HasMany
     {
-        return $this->belongsToMany(config('address.models.mukim'));
+        return $this->hasMany(config('address.models.mukim'));
     }
 }

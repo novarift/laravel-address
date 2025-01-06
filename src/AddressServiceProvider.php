@@ -2,7 +2,7 @@
 
 namespace Novarift\Address;
 
-use Novarift\Address\Commands\SeedCountriesCommand;
+use Novarift\Address\Commands\SeedCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
 
@@ -22,7 +22,7 @@ class AddressServiceProvider extends PackageServiceProvider
                 'create_district_mukim_table',
                 'create_addresses_table',
             ])->hasCommands([
-                SeedCountriesCommand::class,
+                SeedCommand::class,
             ]);
     }
 }
