@@ -155,7 +155,7 @@ class SeedCommand extends Command
         $progress->start();
 
         $collection->each(function (Collection $mukims, int $district) use ($progress) {
-            $district = config('address.models.state')::find($district);
+            $district = config('address.models.district')::find($district);
 
             return $mukims->each(function (array $mukim) use ($progress, $district) {
                 config('address.models.mukim')::updateOrCreate(['district_id' => $district->id, 'code' => $mukim['code']], $mukim);
