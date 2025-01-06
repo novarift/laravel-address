@@ -38,11 +38,11 @@ class SeedCommand extends Command
 
                 $current = $index + 1;
 
+                with(new TwoColumnDetail($this->output))->render($country['name'], "$current/$total");
+
                 $this->comment('Seeding states...');
 
                 $this->states($country);
-
-                with(new TwoColumnDetail($this->output))->render($country['name'], "$current/$total");
             });
 
         $this->comment('Done!');
