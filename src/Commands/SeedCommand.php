@@ -50,9 +50,13 @@ class SeedCommand extends Command
 
     protected function states(Country $country): void
     {
-        $states = collect(json_decode(file_get_contents("$this->PATH/countries/{$country->code}/states.json"), true));
+        $file = "$this->PATH/countries/{$country->code}/states.json";
 
-        if ($states->isEmpty()) {
+        if (! file_exists($file)) {
+            return;
+        }
+
+        if (($states = collect(json_decode(file_get_contents($file), true)))->isEmpty()) {
             return;
         }
 
@@ -74,9 +78,13 @@ class SeedCommand extends Command
 
     protected function districts(State $state, Country $country): void
     {
-        $districts = collect(json_decode(file_get_contents("$this->PATH/countries/{$country->code}/states/{$state->code}/districts.json"), true));
+        $file = "$this->PATH/countries/{$country->code}/states/{$state->code}/districts.json";
 
-        if ($districts->isEmpty()) {
+        if (! file_exists($file)) {
+            return;
+        }
+
+        if (($districts = collect(json_decode(file_get_contents($file), true)))->isEmpty()) {
             return;
         }
 
