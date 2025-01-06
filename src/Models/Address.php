@@ -11,6 +11,25 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\MorphTo;
 use Illuminate\Database\Eloquent\SoftDeletes;
 
+/**
+ * @property string $addressable_type
+ * @property integer $addressable_id
+ * @property integer $country_id
+ * @property integer $state_id
+ * @property integer $post_office_id
+ * @property array $types
+ * @property string $street_1
+ * @property ?string $street_2
+ * @property ?string $street_3
+ * @property ?string $postcode
+ * @property float $latitude
+ * @property float $longitude
+ * @property array $properties
+ * @property Model $addressable
+ * @property Country $country
+ * @property State $state
+ * @property PostOffice $postOffice
+ */
 class Address extends Model
 {
     use SoftDeletes;
@@ -63,6 +82,11 @@ class Address extends Model
     public function state(): BelongsTo
     {
         return $this->belongsTo(config('address.models.state'));
+    }
+
+    public function postOffice(): BelongsTo
+    {
+        return $this->belongsTo(config('address.models.post-office'));
     }
 
     public function scopeOfType(Builder $query, Arrayable|array|string $types): void

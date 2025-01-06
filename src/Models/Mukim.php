@@ -8,6 +8,12 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\SoftDeletes;
 
+/**
+ * @property integer $district_id
+ * @property string $code
+ * @property string $name
+ * @property District $district
+ */
 class Mukim extends Model
 {
     use SoftDeletes;

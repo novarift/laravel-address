@@ -40,7 +40,7 @@ class SeedCommand extends Command
 
                 $current = $index + 1;
 
-                with(new TwoColumnDetail($this->output))->render($country['name'], "$current/$total");
+                (new TwoColumnDetail($this->output))->render($country['name'], "$current/$total");
 
                 $this->states($country);
                 $this->postOffices($country);

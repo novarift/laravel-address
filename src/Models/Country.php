@@ -8,7 +8,17 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Database\Eloquent\Relations\HasManyThrough;
 use Illuminate\Database\Eloquent\SoftDeletes;
+use Illuminate\Support\Collection;
 
+/**
+ * @property string $code
+ * @property string $name
+ * @property string $alpha_2
+ * @property Collection<State> $states
+ * @property Collection<PostOffice> $postOffices
+ * @property Collection<District> $districts
+ * @property Collection<Address> $addresses
+ */
 class Country extends Model
 {
     use SoftDeletes;
