@@ -64,7 +64,7 @@ class SeedCommand extends Command
         $progress = $this->output->createProgressBar($states->count());
         $progress->start();
 
-        $states->map(function (array $state) use ($progress, $country) {
+        $states = $states->map(function (array $state) use ($progress, $country) {
             $state = config('address.models.state')::updateOrCreate(['country_id' => $country->id, 'code' => $state['code']], $state);
 
             $progress->advance();
@@ -94,7 +94,7 @@ class SeedCommand extends Command
         $progress = $this->output->createProgressBar($districts->count());
         $progress->start();
 
-        $districts->map(function (array $district) use ($progress, $state) {
+        $districts = $districts->map(function (array $district) use ($progress, $state) {
             $district = config('address.models.district')::updateOrCreate(['state_id' => $state->code, 'code' => $district['code']], $district);
 
             $progress->advance();
