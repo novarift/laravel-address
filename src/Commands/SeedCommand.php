@@ -98,7 +98,7 @@ class SeedCommand extends Command
             $state = config('address.models.state')::find($state);
 
             return $postOffices->each(function (array $office) use ($progress, $state) {
-                config('address.models.post-office')::updateOrCreate(['state_id' => $state->id, 'code' => $office['code']], $office);
+                config('address.models.post-office')::updateOrCreate(['state_id' => $state->id, 'name' => $office['name']], $office);
                 $progress->advance();
             });
         });
