@@ -13,10 +13,10 @@ use Illuminate\Database\Eloquent\SoftDeletes;
 
 /**
  * @property string $addressable_type
- * @property integer $addressable_id
- * @property integer $country_id
- * @property integer $state_id
- * @property integer $post_office_id
+ * @property int $addressable_id
+ * @property int $country_id
+ * @property int $state_id
+ * @property int $post_office_id
  * @property array $types
  * @property string $street_1
  * @property ?string $street_2

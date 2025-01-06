@@ -11,7 +11,7 @@ use Illuminate\Database\Eloquent\SoftDeletes;
 use Illuminate\Support\Collection;
 
 /**
- * @property integer $country_id
+ * @property int $country_id
  * @property string $code
  * @property string $name
  * @property Country $country

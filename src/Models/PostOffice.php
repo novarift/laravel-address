@@ -9,7 +9,7 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\SoftDeletes;
 
 /**
- * @property integer $state_id
+ * @property int $state_id
  * @property string $name
  * @property array $postcodes
  * @property State $state
