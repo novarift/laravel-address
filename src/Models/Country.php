@@ -29,4 +29,9 @@ class Country extends Model
     {
         return $this->hasMany(config('address.models.address'));
     }
+
+    public function states(): HasMany
+    {
+        return $this->hasMany(config('address.models.state'));
+    }
 }
