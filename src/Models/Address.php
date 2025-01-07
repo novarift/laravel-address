@@ -18,9 +18,9 @@ use Illuminate\Database\Eloquent\SoftDeletes;
  * @property integer $state_id
  * @property integer $post_office_id
  * @property array $types
- * @property string $street_1
- * @property ?string $street_2
- * @property ?string $street_3
+ * @property string $line_1
+ * @property ?string $line_2
+ * @property ?string $line_3
  * @property ?string $postcode
  * @property float $latitude
  * @property float $longitude
@@ -40,9 +40,9 @@ class Address extends Model
         'country_id',
         'state_id',
         'types',
-        'street_1',
-        'street_2',
-        'street_3',
+        'line_1',
+        'line_2',
+        'line_3',
         'postcode',
         'latitude',
         'longitude',
@@ -97,13 +97,14 @@ class Address extends Model
     public function formatted(bool $country = true): string
     {
         return collect([
-            $this->street_1,
-            $this->street_2,
-            $this->street_3,
+            $this->line_1,
+            $this->line_2,
+            $this->line_3,
             $this->postcode,
             $this->state->name,
             $country ? $this->country->name : null,
         ])->filter()
+            ->map(fn (string $value) => (string) str($value)->rtrim(',')->trim())
             ->join(', ');
     }
 }
