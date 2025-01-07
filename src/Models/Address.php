@@ -50,14 +50,14 @@ class Address extends Model
     ];
 
     protected $attributes = [
-        'type' => '[]',
+        'types' => '[]',
         'properties' => '[]',
     ];
 
     protected function casts(): array
     {
         return [
-            'type' => 'array',
+            'types' => 'array',
             'properties' => 'array',
         ];
     }
