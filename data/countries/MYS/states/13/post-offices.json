@@ -1,19 +1,19 @@
 [
     {
         "name": "Asajaya",
-        "post-codes": [
+        "postcodes": [
             "94600"
         ]
     },
     {
         "name": "Balingian",
-        "post-codes": [
+        "postcodes": [
             "96350"
         ]
     },
     {
         "name": "Baram",
-        "post-codes": [
+        "postcodes": [
             "98050",
             "98057",
             "98058",
@@ -22,7 +22,7 @@
     },
     {
         "name": "Bau",
-        "post-codes": [
+        "postcodes": [
             "94000",
             "94007",
             "94009"
@@ -30,7 +30,7 @@
     },
     {
         "name": "Bekenu",
-        "post-codes": [
+        "postcodes": [
             "98150",
             "98157",
             "98159"
@@ -38,7 +38,7 @@
     },
     {
         "name": "Belaga",
-        "post-codes": [
+        "postcodes": [
             "96900",
             "96950",
             "96999"
@@ -46,13 +46,13 @@
     },
     {
         "name": "Belawai",
-        "post-codes": [
+        "postcodes": [
             "96150"
         ]
     },
     {
         "name": "Betong",
-        "post-codes": [
+        "postcodes": [
             "95700",
             "95707",
             "95709"
@@ -60,7 +60,7 @@
     },
     {
         "name": "Bintangor",
-        "post-codes": [
+        "postcodes": [
             "96500",
             "96507",
             "96508",
@@ -70,7 +70,7 @@
     },
     {
         "name": "Bintulu",
-        "post-codes": [
+        "postcodes": [
             "97000",
             "97004",
             "97007",
@@ -87,7 +87,7 @@
     },
     {
         "name": "Dalat",
-        "post-codes": [
+        "postcodes": [
             "96300",
             "96307",
             "96309"
@@ -95,37 +95,37 @@
     },
     {
         "name": "Daro",
-        "post-codes": [
+        "postcodes": [
             "96200"
         ]
     },
     {
         "name": "Debak",
-        "post-codes": [
+        "postcodes": [
             "95500"
         ]
     },
     {
         "name": "Engkilili",
-        "post-codes": [
+        "postcodes": [
             "95800"
         ]
     },
     {
         "name": "Julau",
-        "post-codes": [
+        "postcodes": [
             "96600"
         ]
     },
     {
         "name": "Kabong",
-        "post-codes": [
+        "postcodes": [
             "94650"
         ]
     },
     {
         "name": "Kanowit",
-        "post-codes": [
+        "postcodes": [
             "96700",
             "96707",
             "96709"
@@ -133,7 +133,7 @@
     },
     {
         "name": "Kapit",
-        "post-codes": [
+        "postcodes": [
             "96800",
             "96807",
             "96809"
@@ -141,13 +141,13 @@
     },
     {
         "name": "Kota Samarahan",
-        "post-codes": [
+        "postcodes": [
             "94300"
         ]
     },
     {
         "name": "Kuching",
-        "post-codes": [
+        "postcodes": [
             "93000",
             "93010",
             "93030",
@@ -270,7 +270,7 @@
     },
     {
         "name": "Lawas",
-        "post-codes": [
+        "postcodes": [
             "98850",
             "98857",
             "98859"
@@ -278,7 +278,7 @@
     },
     {
         "name": "Limbang",
-        "post-codes": [
+        "postcodes": [
             "98700",
             "98707",
             "98708",
@@ -287,25 +287,25 @@
     },
     {
         "name": "Lingga",
-        "post-codes": [
+        "postcodes": [
             "94900"
         ]
     },
     {
         "name": "Long Lama",
-        "post-codes": [
+        "postcodes": [
             "98300"
         ]
     },
     {
         "name": "Lubok Antu",
-        "post-codes": [
+        "postcodes": [
             "95900"
         ]
     },
     {
         "name": "Lundu",
-        "post-codes": [
+        "postcodes": [
             "94500",
             "94507",
             "94509"
@@ -313,7 +313,7 @@
     },
     {
         "name": "Lutong",
-        "post-codes": [
+        "postcodes": [
             "98100",
             "98107",
             "98109"
@@ -321,13 +321,13 @@
     },
     {
         "name": "Matu",
-        "post-codes": [
+        "postcodes": [
             "96250"
         ]
     },
     {
         "name": "Miri",
-        "post-codes": [
+        "postcodes": [
             "98000",
             "98007",
             "98008",
@@ -336,38 +336,38 @@
     },
     {
         "name": "Mukah",
-        "post-codes": [
+        "postcodes": [
             "96400",
             "96410"
         ]
     },
     {
         "name": "Nanga Medamit",
-        "post-codes": [
+        "postcodes": [
             "98750"
         ]
     },
     {
         "name": "Niah",
-        "post-codes": [
+        "postcodes": [
             "98200"
         ]
     },
     {
         "name": "Pusa",
-        "post-codes": [
+        "postcodes": [
             "94950"
         ]
     },
     {
         "name": "Roban",
-        "post-codes": [
+        "postcodes": [
             "95300"
         ]
     },
     {
         "name": "Saratok",
-        "post-codes": [
+        "postcodes": [
             "95400",
             "95407",
             "95409"
@@ -375,7 +375,7 @@
     },
     {
         "name": "Sarikei",
-        "post-codes": [
+        "postcodes": [
             "96100",
             "96107",
             "96108",
@@ -384,19 +384,19 @@
     },
     {
         "name": "Sebauh",
-        "post-codes": [
+        "postcodes": [
             "97100"
         ]
     },
     {
         "name": "Sebuyau",
-        "post-codes": [
+        "postcodes": [
             "94850"
         ]
     },
     {
         "name": "Serian",
-        "post-codes": [
+        "postcodes": [
             "94700",
             "94707",
             "94709",
@@ -406,7 +406,7 @@
     },
     {
         "name": "Sibu",
-        "post-codes": [
+        "postcodes": [
             "96000",
             "96007",
             "96008",
@@ -415,13 +415,13 @@
     },
     {
         "name": "Siburan",
-        "post-codes": [
+        "postcodes": [
             "94200"
         ]
     },
     {
         "name": "Simunjan",
-        "post-codes": [
+        "postcodes": [
             "94800",
             "94807",
             "94809"
@@ -429,19 +429,19 @@
     },
     {
         "name": "Song",
-        "post-codes": [
+        "postcodes": [
             "96850"
         ]
     },
     {
         "name": "Spaoh",
-        "post-codes": [
+        "postcodes": [
             "95600"
         ]
     },
     {
         "name": "Sri Aman",
-        "post-codes": [
+        "postcodes": [
             "95000",
             "95007",
             "95008",
@@ -450,13 +450,13 @@
     },
     {
         "name": "Sundar",
-        "post-codes": [
+        "postcodes": [
             "98800"
         ]
     },
     {
         "name": "Tatau",
-        "post-codes": [
+        "postcodes": [
             "97200"
         ]
     }

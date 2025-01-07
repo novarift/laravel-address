@@ -1,7 +1,7 @@
 [
     {
         "name": "Bahau",
-        "post-codes": [
+        "postcodes": [
             "72100",
             "72107",
             "72109"
@@ -9,19 +9,19 @@
     },
     {
         "name": "Bandar Baru Enstek",
-        "post-codes": [
+        "postcodes": [
             "71760"
         ]
     },
     {
         "name": "Bandar Baru Serting",
-        "post-codes": [
+        "postcodes": [
             "72130"
         ]
     },
     {
         "name": "Bandar Seri Jempol",
-        "post-codes": [
+        "postcodes": [
             "72120",
             "72127",
             "72129"
@@ -29,7 +29,7 @@
     },
     {
         "name": "Batu Kikir",
-        "post-codes": [
+        "postcodes": [
             "72200",
             "72207",
             "72209"
@@ -37,7 +37,7 @@
     },
     {
         "name": "Gemas",
-        "post-codes": [
+        "postcodes": [
             "73400",
             "73409",
             "73410",
@@ -47,7 +47,7 @@
     },
     {
         "name": "Gemencheh",
-        "post-codes": [
+        "postcodes": [
             "73200",
             "73207",
             "73209",
@@ -57,21 +57,21 @@
     },
     {
         "name": "Johol",
-        "post-codes": [
+        "postcodes": [
             "73100",
             "73109"
         ]
     },
     {
         "name": "Kota",
-        "post-codes": [
+        "postcodes": [
             "71350",
             "71359"
         ]
     },
     {
         "name": "Kuala Klawang",
-        "post-codes": [
+        "postcodes": [
             "71600",
             "71609",
             "71650",
@@ -80,7 +80,7 @@
     },
     {
         "name": "Kuala Pilah",
-        "post-codes": [
+        "postcodes": [
             "72000",
             "72007",
             "72009",
@@ -91,7 +91,7 @@
     },
     {
         "name": "Labu",
-        "post-codes": [
+        "postcodes": [
             "71900",
             "71907",
             "71909"
@@ -99,14 +99,14 @@
     },
     {
         "name": "Linggi",
-        "post-codes": [
+        "postcodes": [
             "71150",
             "71159"
         ]
     },
     {
         "name": "Mantin",
-        "post-codes": [
+        "postcodes": [
             "71700",
             "71707",
             "71709",
@@ -116,7 +116,7 @@
     },
     {
         "name": "Nilai",
-        "post-codes": [
+        "postcodes": [
             "71800",
             "71807",
             "71809",
@@ -125,7 +125,7 @@
     },
     {
         "name": "Port Dickson",
-        "post-codes": [
+        "postcodes": [
             "71000",
             "71007",
             "71009",
@@ -136,7 +136,7 @@
     },
     {
         "name": "Pusat Bandar Palong",
-        "post-codes": [
+        "postcodes": [
             "73430",
             "73440",
             "73450",
@@ -146,7 +146,7 @@
     },
     {
         "name": "Rantau",
-        "post-codes": [
+        "postcodes": [
             "71100",
             "71109",
             "71200",
@@ -155,7 +155,7 @@
     },
     {
         "name": "Rembau",
-        "post-codes": [
+        "postcodes": [
             "71300",
             "71309",
             "71400",
@@ -164,7 +164,7 @@
     },
     {
         "name": "Rompin",
-        "post-codes": [
+        "postcodes": [
             "73500",
             "73507",
             "73509"
@@ -172,7 +172,7 @@
     },
     {
         "name": "Seremban",
-        "post-codes": [
+        "postcodes": [
             "70000",
             "70100",
             "70200",
@@ -248,14 +248,14 @@
     },
     {
         "name": "Simpang Durian",
-        "post-codes": [
+        "postcodes": [
             "72400",
             "72409"
         ]
     },
     {
         "name": "Simpang Pertang",
-        "post-codes": [
+        "postcodes": [
             "72300",
             "72307",
             "72309"
@@ -263,7 +263,7 @@
     },
     {
         "name": "Si Rusa",
-        "post-codes": [
+        "postcodes": [
             "71050",
             "71059",
             "71250",
@@ -272,7 +272,7 @@
     },
     {
         "name": "Tampin",
-        "post-codes": [
+        "postcodes": [
             "73000",
             "73007",
             "73009"
@@ -280,7 +280,7 @@
     },
     {
         "name": "Tanjong Ipoh",
-        "post-codes": [
+        "postcodes": [
             "71500",
             "71509",
             "71550",

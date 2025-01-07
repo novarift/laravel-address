@@ -1,37 +1,37 @@
 [
     {
         "name": "Ampang",
-        "post-codes": [
+        "postcodes": [
             "68000"
         ]
     },
     {
         "name": "Bandar Baru Bangi",
-        "post-codes": [
+        "postcodes": [
             "43650"
         ]
     },
     {
         "name": "Bandar Puncak Alam",
-        "post-codes": [
+        "postcodes": [
             "42300"
         ]
     },
     {
         "name": "Bangi",
-        "post-codes": [
+        "postcodes": [
             "43600"
         ]
     },
     {
         "name": "Banting",
-        "post-codes": [
+        "postcodes": [
             "42700"
         ]
     },
     {
         "name": "Batang Berjuntai",
-        "post-codes": [
+        "postcodes": [
             "45600",
             "45607",
             "45609",
@@ -41,7 +41,7 @@
     },
     {
         "name": "Batang Kali",
-        "post-codes": [
+        "postcodes": [
             "44300",
             "44309",
             "44330"
@@ -49,33 +49,33 @@
     },
     {
         "name": "Batu Caves",
-        "post-codes": [
+        "postcodes": [
             "68100"
         ]
     },
     {
         "name": "Beranang",
-        "post-codes": [
+        "postcodes": [
             "43700",
             "43701"
         ]
     },
     {
         "name": "Bukit Rotan",
-        "post-codes": [
+        "postcodes": [
             "45700"
         ]
     },
     {
         "name": "Cheras",
-        "post-codes": [
+        "postcodes": [
             "43200",
             "43207"
         ]
     },
     {
         "name": "Cyberjaya",
-        "post-codes": [
+        "postcodes": [
             "63000",
             "63100",
             "63200",
@@ -84,20 +84,20 @@
     },
     {
         "name": "Dengkil",
-        "post-codes": [
+        "postcodes": [
             "43800",
             "43807"
         ]
     },
     {
         "name": "Hulu Langat",
-        "post-codes": [
+        "postcodes": [
             "43100"
         ]
     },
     {
         "name": "Jenjarom",
-        "post-codes": [
+        "postcodes": [
             "42600",
             "42610",
             "42619"
@@ -105,13 +105,13 @@
     },
     {
         "name": "Jeram",
-        "post-codes": [
+        "postcodes": [
             "45800"
         ]
     },
     {
         "name": "Kajang",
-        "post-codes": [
+        "postcodes": [
             "43000",
             "43007",
             "43009",
@@ -120,20 +120,20 @@
     },
     {
         "name": "Kapar",
-        "post-codes": [
+        "postcodes": [
             "42200",
             "42209"
         ]
     },
     {
         "name": "Kerling",
-        "post-codes": [
+        "postcodes": [
             "44100"
         ]
     },
     {
         "name": "Klang",
-        "post-codes": [
+        "postcodes": [
             "41000",
             "41050",
             "41070",
@@ -177,13 +177,13 @@
     },
     {
         "name": "Klia",
-        "post-codes": [
+        "postcodes": [
             "64000"
         ]
     },
     {
         "name": "Kuala Kubu Baru",
-        "post-codes": [
+        "postcodes": [
             "44000",
             "44010",
             "44020",
@@ -192,14 +192,14 @@
     },
     {
         "name": "Kuala Selangor",
-        "post-codes": [
+        "postcodes": [
             "45000",
             "45010"
         ]
     },
     {
         "name": "Pelabuhan Klang",
-        "post-codes": [
+        "postcodes": [
             "42000",
             "42007",
             "42008",
@@ -208,7 +208,7 @@
     },
     {
         "name": "Petaling Jaya",
-        "post-codes": [
+        "postcodes": [
             "46000",
             "46040",
             "46050",
@@ -306,7 +306,7 @@
     },
     {
         "name": "Puchong",
-        "post-codes": [
+        "postcodes": [
             "47100",
             "47110",
             "47120",
@@ -321,14 +321,14 @@
     },
     {
         "name": "Pulau Carey",
-        "post-codes": [
+        "postcodes": [
             "42960",
             "42999"
         ]
     },
     {
         "name": "Pulau Indah",
-        "post-codes": [
+        "postcodes": [
             "42900",
             "42907",
             "42920"
@@ -336,19 +336,19 @@
     },
     {
         "name": "Pulau Ketam",
-        "post-codes": [
+        "postcodes": [
             "42940"
         ]
     },
     {
         "name": "Rasa",
-        "post-codes": [
+        "postcodes": [
             "44200"
         ]
     },
     {
         "name": "Rawang",
-        "post-codes": [
+        "postcodes": [
             "48000",
             "48009",
             "48010",
@@ -361,7 +361,7 @@
     },
     {
         "name": "Sabak Bernam",
-        "post-codes": [
+        "postcodes": [
             "45200",
             "45207",
             "45209"
@@ -369,45 +369,45 @@
     },
     {
         "name": "Sekinchan",
-        "post-codes": [
+        "postcodes": [
             "45400"
         ]
     },
     {
         "name": "Semenyih",
-        "post-codes": [
+        "postcodes": [
             "43500"
         ]
     },
     {
         "name": "Sepang",
-        "post-codes": [
+        "postcodes": [
             "43900"
         ]
     },
     {
         "name": "Serdang",
-        "post-codes": [
+        "postcodes": [
             "43400"
         ]
     },
     {
         "name": "Serendah",
-        "post-codes": [
+        "postcodes": [
             "48200",
             "48250"
         ]
     },
     {
         "name": "Seri Kembangan",
-        "post-codes": [
+        "postcodes": [
             "43300",
             "43399"
         ]
     },
     {
         "name": "Shah Alam",
-        "post-codes": [
+        "postcodes": [
             "40000",
             "40100",
             "40140",
@@ -508,14 +508,14 @@
     },
     {
         "name": "Subang Airport",
-        "post-codes": [
+        "postcodes": [
             "47200",
             "47210"
         ]
     },
     {
         "name": "Subang Jaya",
-        "post-codes": [
+        "postcodes": [
             "47500",
             "47507",
             "47510",
@@ -532,19 +532,19 @@
     },
     {
         "name": "Sungai Ayer Tawar",
-        "post-codes": [
+        "postcodes": [
             "45100"
         ]
     },
     {
         "name": "Sungai Besar",
-        "post-codes": [
+        "postcodes": [
             "45300"
         ]
     },
     {
         "name": "Sungai Buloh",
-        "post-codes": [
+        "postcodes": [
             "47000",
             "47020",
             "47031"
@@ -552,26 +552,26 @@
     },
     {
         "name": "Sungai Pelek",
-        "post-codes": [
+        "postcodes": [
             "43950",
             "43999"
         ]
     },
     {
         "name": "Tanjong Karang",
-        "post-codes": [
+        "postcodes": [
             "45500"
         ]
     },
     {
         "name": "Tanjong Sepat",
-        "post-codes": [
+        "postcodes": [
             "42800"
         ]
     },
     {
         "name": "Telok Panglima Garang",
-        "post-codes": [
+        "postcodes": [
             "42425",
             "42500",
             "42507",

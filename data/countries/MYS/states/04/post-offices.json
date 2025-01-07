@@ -1,40 +1,40 @@
 [
     {
         "name": "Alor Gajah",
-        "post-codes": [
+        "postcodes": [
             "78000",
             "78009"
         ]
     },
     {
         "name": "Asahan",
-        "post-codes": [
+        "postcodes": [
             "77100",
             "77109"
         ]
     },
     {
         "name": "Ayer Keroh",
-        "post-codes": [
+        "postcodes": [
             "75450"
         ]
     },
     {
         "name": "Bemban",
-        "post-codes": [
+        "postcodes": [
             "77200"
         ]
     },
     {
         "name": "Durian Tunggal",
-        "post-codes": [
+        "postcodes": [
             "76100",
             "76109"
         ]
     },
     {
         "name": "Jasin",
-        "post-codes": [
+        "postcodes": [
             "77000",
             "77007",
             "77008",
@@ -43,25 +43,25 @@
     },
     {
         "name": "Kem Trendak",
-        "post-codes": [
+        "postcodes": [
             "76200"
         ]
     },
     {
         "name": "Kuala Sungai Baru",
-        "post-codes": [
+        "postcodes": [
             "78200"
         ]
     },
     {
         "name": "Lubok China",
-        "post-codes": [
+        "postcodes": [
             "78100"
         ]
     },
     {
         "name": "Masjid Tanah",
-        "post-codes": [
+        "postcodes": [
             "78300",
             "78307",
             "78309"
@@ -69,7 +69,7 @@
     },
     {
         "name": "Melaka",
-        "post-codes": [
+        "postcodes": [
             "75000",
             "75050",
             "75100",
@@ -87,31 +87,31 @@
     },
     {
         "name": "Merlimau",
-        "post-codes": [
+        "postcodes": [
             "77300"
         ]
     },
     {
         "name": "Selandar",
-        "post-codes": [
+        "postcodes": [
             "77500"
         ]
     },
     {
         "name": "Sungai Rambai",
-        "post-codes": [
+        "postcodes": [
             "77400"
         ]
     },
     {
         "name": "Sungai Udang",
-        "post-codes": [
+        "postcodes": [
             "76300"
         ]
     },
     {
         "name": "Tanjong Kling",
-        "post-codes": [
+        "postcodes": [
             "76400",
             "76409"
         ]

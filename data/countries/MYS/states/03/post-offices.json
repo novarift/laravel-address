@@ -1,13 +1,13 @@
 [
     {
         "name": "Ayer Lanas",
-        "post-codes": [
+        "postcodes": [
             "17700"
         ]
     },
     {
         "name": "Bachok",
-        "post-codes": [
+        "postcodes": [
             "16020",
             "16030",
             "16050",
@@ -24,43 +24,43 @@
     },
     {
         "name": "Cherang Ruku",
-        "post-codes": [
+        "postcodes": [
             "16700"
         ]
     },
     {
         "name": "Dabong",
-        "post-codes": [
+        "postcodes": [
             "18200"
         ]
     },
     {
         "name": "Gua Musang",
-        "post-codes": [
+        "postcodes": [
             "18300"
         ]
     },
     {
         "name": "Jeli",
-        "post-codes": [
+        "postcodes": [
             "17600"
         ]
     },
     {
         "name": "Kem Desa Pahlawan",
-        "post-codes": [
+        "postcodes": [
             "16500"
         ]
     },
     {
         "name": "Ketereh",
-        "post-codes": [
+        "postcodes": [
             "16450"
         ]
     },
     {
         "name": "Kota Bharu",
-        "post-codes": [
+        "postcodes": [
             "15000",
             "15050",
             "15100",
@@ -158,13 +158,13 @@
     },
     {
         "name": "Kuala Balah",
-        "post-codes": [
+        "postcodes": [
             "17610"
         ]
     },
     {
         "name": "Kuala Krai",
-        "post-codes": [
+        "postcodes": [
             "18000",
             "18020",
             "18050"
@@ -172,19 +172,19 @@
     },
     {
         "name": "Machang",
-        "post-codes": [
+        "postcodes": [
             "18500"
         ]
     },
     {
         "name": "Melor",
-        "post-codes": [
+        "postcodes": [
             "16400"
         ]
     },
     {
         "name": "Pasir Mas",
-        "post-codes": [
+        "postcodes": [
             "17000",
             "17007",
             "17009",
@@ -199,31 +199,31 @@
     },
     {
         "name": "Pasir Puteh",
-        "post-codes": [
+        "postcodes": [
             "16800"
         ]
     },
     {
         "name": "Pulai Chondong",
-        "post-codes": [
+        "postcodes": [
             "16600"
         ]
     },
     {
         "name": "Rantau Panjang",
-        "post-codes": [
+        "postcodes": [
             "17200"
         ]
     },
     {
         "name": "Selising",
-        "post-codes": [
+        "postcodes": [
             "16810"
         ]
     },
     {
         "name": "Tanah Merah",
-        "post-codes": [
+        "postcodes": [
             "17500",
             "17507",
             "17509",
@@ -234,13 +234,13 @@
     },
     {
         "name": "Temangan",
-        "post-codes": [
+        "postcodes": [
             "18400"
         ]
     },
     {
         "name": "Tumpat",
-        "post-codes": [
+        "postcodes": [
             "16080",
             "16200",
             "16210"
@@ -248,7 +248,7 @@
     },
     {
         "name": "Wakaf Bharu",
-        "post-codes": [
+        "postcodes": [
             "16040",
             "16250",
             "16266"

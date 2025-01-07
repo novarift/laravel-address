@@ -1,7 +1,7 @@
 [
     {
         "name": "Arau",
-        "post-codes": [
+        "postcodes": [
             "02600",
             "02607",
             "02609"
@@ -9,13 +9,13 @@
     },
     {
         "name": "Kaki Bukit",
-        "post-codes": [
+        "postcodes": [
             "02200"
         ]
     },
     {
         "name": "Kangar",
-        "post-codes": [
+        "postcodes": [
             "01000",
             "01007",
             "01009",
@@ -87,19 +87,19 @@
     },
     {
         "name": "Kuala Perlis",
-        "post-codes": [
+        "postcodes": [
             "02000"
         ]
     },
     {
         "name": "Padang Besar",
-        "post-codes": [
+        "postcodes": [
             "02100"
         ]
     },
     {
         "name": "Simpang Ampat",
-        "post-codes": [
+        "postcodes": [
             "02700",
             "02707",
             "02709",

@@ -1,7 +1,7 @@
 [
     {
         "name": "Ajil",
-        "post-codes": [
+        "postcodes": [
             "21800",
             "21810",
             "21820"
@@ -9,43 +9,43 @@
     },
     {
         "name": "Al Muktafi Billah Shah",
-        "post-codes": [
+        "postcodes": [
             "23400"
         ]
     },
     {
         "name": "Ayer Puteh",
-        "post-codes": [
+        "postcodes": [
             "24050"
         ]
     },
     {
         "name": "Bukit Besi",
-        "post-codes": [
+        "postcodes": [
             "23200"
         ]
     },
     {
         "name": "Bukit Payong",
-        "post-codes": [
+        "postcodes": [
             "21400"
         ]
     },
     {
         "name": "Ceneh",
-        "post-codes": [
+        "postcodes": [
             "24060"
         ]
     },
     {
         "name": "Chalok",
-        "post-codes": [
+        "postcodes": [
             "21450"
         ]
     },
     {
         "name": "Cukai",
-        "post-codes": [
+        "postcodes": [
             "24000",
             "24007",
             "24009",
@@ -57,7 +57,7 @@
     },
     {
         "name": "Dungun",
-        "post-codes": [
+        "postcodes": [
             "23000",
             "23007",
             "23009",
@@ -66,7 +66,7 @@
     },
     {
         "name": "Jerteh",
-        "post-codes": [
+        "postcodes": [
             "22000",
             "22010",
             "22020",
@@ -76,13 +76,13 @@
     },
     {
         "name": "Kampung Raja",
-        "post-codes": [
+        "postcodes": [
             "22200"
         ]
     },
     {
         "name": "Kemasek",
-        "post-codes": [
+        "postcodes": [
             "24200",
             "24207",
             "24209",
@@ -92,20 +92,20 @@
     },
     {
         "name": "Kerteh",
-        "post-codes": [
+        "postcodes": [
             "24300"
         ]
     },
     {
         "name": "Ketengah Jaya",
-        "post-codes": [
+        "postcodes": [
             "23300",
             "23345"
         ]
     },
     {
         "name": "Kijal",
-        "post-codes": [
+        "postcodes": [
             "24100",
             "24107",
             "24109"
@@ -113,13 +113,13 @@
     },
     {
         "name": "Kuala Berang",
-        "post-codes": [
+        "postcodes": [
             "21700"
         ]
     },
     {
         "name": "Kuala Besut",
-        "post-codes": [
+        "postcodes": [
             "22300",
             "22307",
             "22309"
@@ -127,7 +127,7 @@
     },
     {
         "name": "Kuala Terengganu",
-        "post-codes": [
+        "postcodes": [
             "20000",
             "20050",
             "20080",
@@ -251,20 +251,20 @@
     },
     {
         "name": "Marang",
-        "post-codes": [
+        "postcodes": [
             "21600",
             "21610"
         ]
     },
     {
         "name": "Paka",
-        "post-codes": [
+        "postcodes": [
             "23100"
         ]
     },
     {
         "name": "Permaisuri",
-        "post-codes": [
+        "postcodes": [
             "22100",
             "22107",
             "22109",
@@ -274,7 +274,7 @@
     },
     {
         "name": "Sungai Tong",
-        "post-codes": [
+        "postcodes": [
             "21500"
         ]
     }

@@ -1,13 +1,13 @@
 [
     {
         "name": "Ayer Itam",
-        "post-codes": [
+        "postcodes": [
             "11500"
         ]
     },
     {
         "name": "Balik Pulau",
-        "post-codes": [
+        "postcodes": [
             "11000",
             "11010",
             "11020"
@@ -15,19 +15,19 @@
     },
     {
         "name": "Batu Ferringhi",
-        "post-codes": [
+        "postcodes": [
             "11100"
         ]
     },
     {
         "name": "Batu Maung",
-        "post-codes": [
+        "postcodes": [
             "11960"
         ]
     },
     {
         "name": "Bayan Lepas",
-        "post-codes": [
+        "postcodes": [
             "11900",
             "11902",
             "11910",
@@ -37,7 +37,7 @@
     },
     {
         "name": "Bukit Mertajam",
-        "post-codes": [
+        "postcodes": [
             "14000",
             "14007",
             "14009",
@@ -46,7 +46,7 @@
     },
     {
         "name": "Butterworth",
-        "post-codes": [
+        "postcodes": [
             "12000",
             "12100",
             "12200",
@@ -69,20 +69,20 @@
     },
     {
         "name": "Gelugor",
-        "post-codes": [
+        "postcodes": [
             "11700"
         ]
     },
     {
         "name": "Jelutong",
-        "post-codes": [
+        "postcodes": [
             "11600",
             "11609"
         ]
     },
     {
         "name": "Kepala Batas",
-        "post-codes": [
+        "postcodes": [
             "13200",
             "13210",
             "13220"
@@ -90,13 +90,13 @@
     },
     {
         "name": "Kubang Semang",
-        "post-codes": [
+        "postcodes": [
             "14400"
         ]
     },
     {
         "name": "Nibong Tebal",
-        "post-codes": [
+        "postcodes": [
             "14300",
             "14310",
             "14320"
@@ -104,20 +104,20 @@
     },
     {
         "name": "Penaga",
-        "post-codes": [
+        "postcodes": [
             "13100",
             "13110"
         ]
     },
     {
         "name": "Penang Hill",
-        "post-codes": [
+        "postcodes": [
             "11300"
         ]
     },
     {
         "name": "Perai",
-        "post-codes": [
+        "postcodes": [
             "13600",
             "13690",
             "13700"
@@ -125,13 +125,13 @@
     },
     {
         "name": "Permatang Pauh",
-        "post-codes": [
+        "postcodes": [
             "13500"
         ]
     },
     {
         "name": "Pulau Pinang",
-        "post-codes": [
+        "postcodes": [
             "10000",
             "10020",
             "10050",
@@ -231,7 +231,7 @@
     },
     {
         "name": "Simpang Ampat",
-        "post-codes": [
+        "postcodes": [
             "14100",
             "14101",
             "14110",
@@ -240,26 +240,26 @@
     },
     {
         "name": "Sungai Jawi",
-        "post-codes": [
+        "postcodes": [
             "14200"
         ]
     },
     {
         "name": "Tanjong Bungah",
-        "post-codes": [
+        "postcodes": [
             "11200"
         ]
     },
     {
         "name": "Tasek Gelugor",
-        "post-codes": [
+        "postcodes": [
             "13300",
             "13310"
         ]
     },
     {
         "name": "Usm Pulau Pinang",
-        "post-codes": [
+        "postcodes": [
             "11800"
         ]
     }

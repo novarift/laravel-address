@@ -1,7 +1,7 @@
 [
     {
         "name": "Beaufort",
-        "post-codes": [
+        "postcodes": [
             "89800",
             "89807",
             "89808",
@@ -10,7 +10,7 @@
     },
     {
         "name": "Beluran",
-        "post-codes": [
+        "postcodes": [
             "90100",
             "90107",
             "90109"
@@ -18,14 +18,14 @@
     },
     {
         "name": "Beverly",
-        "post-codes": [
+        "postcodes": [
             "88700",
             "89260"
         ]
     },
     {
         "name": "Bongawan",
-        "post-codes": [
+        "postcodes": [
             "89700",
             "89707",
             "89708",
@@ -34,13 +34,13 @@
     },
     {
         "name": "Inanam",
-        "post-codes": [
+        "postcodes": [
             "88857"
         ]
     },
     {
         "name": "Keningau",
-        "post-codes": [
+        "postcodes": [
             "89000",
             "89007",
             "89008",
@@ -49,7 +49,7 @@
     },
     {
         "name": "Kota Belud",
-        "post-codes": [
+        "postcodes": [
             "89150",
             "89157",
             "89158",
@@ -58,7 +58,7 @@
     },
     {
         "name": "Kota Kinabalu",
-        "post-codes": [
+        "postcodes": [
             "88000",
             "88100",
             "88110",
@@ -274,13 +274,13 @@
     },
     {
         "name": "Kota Kinabatangan",
-        "post-codes": [
+        "postcodes": [
             "90200"
         ]
     },
     {
         "name": "Kota Marudu",
-        "post-codes": [
+        "postcodes": [
             "89100",
             "89107",
             "89108",
@@ -289,7 +289,7 @@
     },
     {
         "name": "Kuala Penyu",
-        "post-codes": [
+        "postcodes": [
             "89740",
             "89747",
             "89748",
@@ -298,7 +298,7 @@
     },
     {
         "name": "Kudat",
-        "post-codes": [
+        "postcodes": [
             "89050",
             "89057",
             "89058",
@@ -307,7 +307,7 @@
     },
     {
         "name": "Kunak",
-        "post-codes": [
+        "postcodes": [
             "91200",
             "91207",
             "91209"
@@ -315,7 +315,7 @@
     },
     {
         "name": "Lahad Datu",
-        "post-codes": [
+        "postcodes": [
             "91100",
             "91108",
             "91109",
@@ -343,13 +343,13 @@
     },
     {
         "name": "Likas",
-        "post-codes": [
+        "postcodes": [
             "88856"
         ]
     },
     {
         "name": "Membakut",
-        "post-codes": [
+        "postcodes": [
             "89720",
             "89727",
             "89728",
@@ -358,7 +358,7 @@
     },
     {
         "name": "Menumbok",
-        "post-codes": [
+        "postcodes": [
             "89760",
             "89767",
             "89768",
@@ -367,7 +367,7 @@
     },
     {
         "name": "Nabawan",
-        "post-codes": [
+        "postcodes": [
             "89950",
             "89957",
             "89958",
@@ -376,13 +376,13 @@
     },
     {
         "name": "Pamol",
-        "post-codes": [
+        "postcodes": [
             "90400"
         ]
     },
     {
         "name": "Papar",
-        "post-codes": [
+        "postcodes": [
             "89600",
             "89607",
             "89608",
@@ -391,7 +391,7 @@
     },
     {
         "name": "Penampang",
-        "post-codes": [
+        "postcodes": [
             "89500",
             "89507",
             "89508",
@@ -400,7 +400,7 @@
     },
     {
         "name": "Putatan",
-        "post-codes": [
+        "postcodes": [
             "88721",
             "88722",
             "88723",
@@ -410,7 +410,7 @@
     },
     {
         "name": "Ranau",
-        "post-codes": [
+        "postcodes": [
             "89300",
             "89307",
             "89308",
@@ -422,7 +422,7 @@
     },
     {
         "name": "Sandakan",
-        "post-codes": [
+        "postcodes": [
             "90000",
             "90008",
             "90009",
@@ -473,7 +473,7 @@
     },
     {
         "name": "Semporna",
-        "post-codes": [
+        "postcodes": [
             "91300",
             "91307",
             "91308",
@@ -482,7 +482,7 @@
     },
     {
         "name": "Sipitang",
-        "post-codes": [
+        "postcodes": [
             "89850",
             "89857",
             "89858",
@@ -491,7 +491,7 @@
     },
     {
         "name": "Tambunan",
-        "post-codes": [
+        "postcodes": [
             "89650",
             "89657",
             "89658",
@@ -500,7 +500,7 @@
     },
     {
         "name": "Tamparuli",
-        "post-codes": [
+        "postcodes": [
             "89250",
             "89257",
             "89258",
@@ -509,13 +509,13 @@
     },
     {
         "name": "Tanjung Aru",
-        "post-codes": [
+        "postcodes": [
             "88858"
         ]
     },
     {
         "name": "Tawau",
-        "post-codes": [
+        "postcodes": [
             "91000",
             "91007",
             "91008",
@@ -552,7 +552,7 @@
     },
     {
         "name": "Tenom",
-        "post-codes": [
+        "postcodes": [
             "89900",
             "89907",
             "89908",
@@ -561,7 +561,7 @@
     },
     {
         "name": "Tuaran",
-        "post-codes": [
+        "postcodes": [
             "89200",
             "89207",
             "89208",

@@ -1,7 +1,7 @@
 [
     {
         "name": "Kuala Lumpur",
-        "post-codes": [
+        "postcodes": [
             "50000",
             "50050",
             "50088",
@@ -303,7 +303,7 @@
     },
     {
         "name": "Setapak",
-        "post-codes": [
+        "postcodes": [
             "53300"
         ]
     }
