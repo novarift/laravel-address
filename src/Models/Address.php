@@ -18,9 +18,9 @@ use Illuminate\Database\Eloquent\SoftDeletes;
  * @property int $state_id
  * @property int $post_office_id
  * @property array $types
- * @property string $line_1
- * @property ?string $line_2
- * @property ?string $line_3
+ * @property string $line_one
+ * @property ?string $line_two
+ * @property ?string $line_three
  * @property ?string $postcode
  * @property float $latitude
  * @property float $longitude
@@ -40,9 +40,9 @@ class Address extends Model
         'country_id',
         'state_id',
         'types',
-        'line_1',
-        'line_2',
-        'line_3',
+        'line_one',
+        'line_two',
+        'line_three',
         'postcode',
         'latitude',
         'longitude',
@@ -94,17 +94,23 @@ class Address extends Model
         $query->whereIn('types', collect($types));
     }
 
-    public function formatted(bool $country = true): string
+    public function formatted(bool $country = true, bool $capitalize = false): string
     {
-        return collect([
-            $this->line_1,
-            $this->line_2,
-            $this->line_3,
-            $this->postcode,
-            $this->state->name,
-            $country ? $this->country->name : null,
-        ])->filter()
+        $address = collect([
+                $this->line_one,
+                $this->line_two,
+                $this->line_three,
+                $this->postcode,
+                $this->state->name,
+                $country ? $this->country->name : null,
+            ])->filter()
             ->map(fn (string $value) => (string) str($value)->rtrim(',')->trim())
             ->join(', ');
+
+        if ($capitalize) {
+            $address = strtoupper($address);
+        }
+
+        return $address;
     }
 }
