@@ -97,13 +97,13 @@ class Address extends Model
     public function formatted(bool $country = true, bool $capitalize = false): string
     {
         $address = collect([
-                $this->line_one,
-                $this->line_two,
-                $this->line_three,
-                $this->postcode,
-                $this->state->name,
-                $country ? $this->country->name : null,
-            ])->filter()
+            $this->line_one,
+            $this->line_two,
+            $this->line_three,
+            $this->postcode,
+            $this->state->name,
+            $country ? $this->country->name : null,
+        ])->filter()
             ->map(fn (string $value) => (string) str($value)->rtrim(',')->trim())
             ->join(', ');
 
