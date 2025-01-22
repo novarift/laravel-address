@@ -11,11 +11,11 @@ return [
     ],
 
     'tables' => [
-        'address' => 'addresses',
-        'country' => 'countries',
+        'addresses' => 'addresses',
+        'countries' => 'countries',
         'states' => 'states',
-        'district' => 'districts',
-        'subdistrict' => 'subdistricts',
-        'post-office' => 'post_offices',
+        'districts' => 'districts',
+        'subdistricts' => 'subdistricts',
+        'post_offices' => 'post_offices',
     ],
 ];

@@ -31,7 +31,7 @@ class District extends Model
     {
         parent::__construct($attributes);
 
-        $this->table = config('address.tables.district', parent::getTable());
+        $this->table = config('address.tables.districts', parent::getTable());
     }
 
     public function state(): BelongsTo

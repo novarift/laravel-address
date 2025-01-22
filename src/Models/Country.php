@@ -33,7 +33,7 @@ class Country extends Model
     {
         parent::__construct($attributes);
 
-        $this->table = config('address.tables.country', parent::getTable());
+        $this->table = config('address.tables.countries', parent::getTable());
     }
 
     public function states(): HasMany

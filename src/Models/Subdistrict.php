@@ -28,7 +28,7 @@ class Subdistrict extends Model
     {
         parent::__construct($attributes);
 
-        $this->table = config('address.tables.subdistrict', parent::getTable());
+        $this->table = config('address.tables.subdistricts', parent::getTable());
     }
 
     public function district(): BelongsTo

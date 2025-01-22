@@ -39,7 +39,7 @@ class PostOffice extends Model
     {
         parent::__construct($attributes);
 
-        $this->table = config('address.tables.post-office', parent::getTable());
+        $this->table = config('address.tables.post_offices', parent::getTable());
     }
 
     public function state(): BelongsTo
