@@ -32,7 +32,7 @@ class State extends Model
     {
         parent::__construct($attributes);
 
-        $this->table = config('address.tables.states') ?: parent::getTable();
+        $this->table = config('address.tables.states', parent::getTable());
     }
 
     public function country(): BelongsTo

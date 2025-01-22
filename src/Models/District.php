@@ -15,7 +15,7 @@ use Illuminate\Support\Collection;
  * @property string $code
  * @property string $name
  * @property State $state
- * @property Collection<Mukim> $mukims
+ * @property Collection<Subdistrict> $subdistricts
  */
 class District extends Model
 {
@@ -31,7 +31,7 @@ class District extends Model
     {
         parent::__construct($attributes);
 
-        $this->table = config('address.tables.district') ?: parent::getTable();
+        $this->table = config('address.tables.district', parent::getTable());
     }
 
     public function state(): BelongsTo
@@ -39,8 +39,8 @@ class District extends Model
         return $this->belongsTo(config('address.models.state'));
     }
 
-    public function mukims(): HasMany
+    public function subdistricts(): HasMany
     {
-        return $this->hasMany(config('address.models.mukim'));
+        return $this->hasMany(config('address.models.subdistrict'));
     }
 }

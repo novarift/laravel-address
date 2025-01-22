@@ -6,7 +6,7 @@ return [
         'country' => \Novarift\Address\Models\Country::class,
         'state' => \Novarift\Address\Models\State::class,
         'district' => \Novarift\Address\Models\District::class,
-        'mukim' => \Novarift\Address\Models\Mukim::class,
+        'subdistrict' => \Novarift\Address\Models\Subdistrict::class,
         'post-office' => \Novarift\Address\Models\PostOffice::class,
     ],
 
@@ -15,7 +15,7 @@ return [
         'country' => 'countries',
         'states' => 'states',
         'district' => 'districts',
-        'mukim' => 'mukims',
+        'subdistrict' => 'subdistricts',
         'post-office' => 'post_offices',
     ],
 ];

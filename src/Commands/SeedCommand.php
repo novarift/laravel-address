@@ -45,7 +45,7 @@ class SeedCommand extends Command
                 $this->states($country);
                 $this->postOffices($country);
                 $this->districts($country);
-                $this->mukims($country);
+                $this->subdistricts($country);
             });
 
         $this->comment('Done!');
@@ -137,10 +137,10 @@ class SeedCommand extends Command
         $this->newLine();
     }
 
-    protected function mukims(Country $country): void
+    protected function subdistricts(Country $country): void
     {
         $collection = $country->districts
-            ->mapWithKeys(fn (District $district) => [$district->id => "$this->PATH/countries/{$country->code}/states/{$district->state->code}/districts/{$district->code}/mukims.json"])
+            ->mapWithKeys(fn (District $district) => [$district->id => "$this->PATH/countries/{$country->code}/states/{$district->state->code}/districts/{$district->code}/subdistricts.json"])
             ->filter(fn (string $file) => file_exists($file))
             ->map(fn (string $file) => collect(json_decode(file_get_contents($file), true)))
             ->filter(fn (Collection $collection) => $collection->isNotEmpty());
@@ -149,16 +149,16 @@ class SeedCommand extends Command
             return;
         }
 
-        $this->comment('Seeding mukims...');
+        $this->comment('Seeding subdistricts...');
 
         $progress = $this->output->createProgressBar($collection->flatten(1)->count());
         $progress->start();
 
-        $collection->each(function (Collection $mukims, int $district) use ($progress) {
+        $collection->each(function (Collection $subdistricts, int $district) use ($progress) {
             $district = config('address.models.district')::find($district);
 
-            return $mukims->each(function (array $mukim) use ($progress, $district) {
-                config('address.models.mukim')::updateOrCreate(['district_id' => $district->id, 'code' => $mukim['code']], $mukim);
+            return $subdistricts->each(function (array $subdistrict) use ($progress, $district) {
+                config('address.models.subdistrict')::updateOrCreate(['district_id' => $district->id, 'code' => $subdistrict['code']], $subdistrict);
                 $progress->advance();
             });
         });

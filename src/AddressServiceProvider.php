@@ -19,7 +19,7 @@ class AddressServiceProvider extends PackageServiceProvider
                 'create_states_table',
                 'create_post_offices_table',
                 'create_districts_table',
-                'create_mukims_table',
+                'create_subdistricts_table',
                 'create_addresses_table',
             ])->hasCommands([
                 SeedCommand::class,
