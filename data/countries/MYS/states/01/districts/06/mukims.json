@@ -1,0 +1,70 @@
+[
+    {
+        "code": "01",
+        "name": "Mukim Ayer Hitam"
+    },
+    {
+        "code": "02",
+        "name": "Mukim Bandar"
+    },
+    {
+        "code": "03",
+        "name": "Mukim Bukit Kepong"
+    },
+    {
+        "code": "06",
+        "name": "Mukim Jalan Bakri"
+    },
+    {
+        "code": "07",
+        "name": "Mukim Jorak"
+    },
+    {
+        "code": "10",
+        "name": "Mukim Lenga"
+    },
+    {
+        "code": "11",
+        "name": "Mukim Parit Bakar"
+    },
+    {
+        "code": "12",
+        "name": "Mukim Parit Jawa"
+    },
+    {
+        "code": "13",
+        "name": "Mukim Sri Menanti"
+    },
+    {
+        "code": "15",
+        "name": "Mukim Sungai Balang"
+    },
+    {
+        "code": "16",
+        "name": "Mukim Sungai Raya"
+    },
+    {
+        "code": "17",
+        "name": "Mukim Sungai Terap"
+    },
+    {
+        "code": "40",
+        "name": "Bandar Bandar Maharani"
+    },
+    {
+        "code": "42",
+        "name": "Bandar Bukit Kepong"
+    },
+    {
+        "code": "43",
+        "name": "Bandar Panchor"
+    },
+    {
+        "code": "45",
+        "name": "Bandar Parit Jawa"
+    },
+    {
+        "code": "70",
+        "name": "Pekan Bukit Pasir"
+    }
+]

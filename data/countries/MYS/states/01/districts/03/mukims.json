@@ -1,0 +1,46 @@
+[
+    {
+        "code": "01",
+        "name": "Mukim Ulu Benut"
+    },
+    {
+        "code": "02",
+        "name": "Mukim Kahang"
+    },
+    {
+        "code": "03",
+        "name": "Mukim Kluang"
+    },
+    {
+        "code": "04",
+        "name": "Mukim Layang Layang"
+    },
+    {
+        "code": "05",
+        "name": "Mukim Machap"
+    },
+    {
+        "code": "06",
+        "name": "Mukim Niyor"
+    },
+    {
+        "code": "07",
+        "name": "Mukim Paloh"
+    },
+    {
+        "code": "08",
+        "name": "Mukim Rengam"
+    },
+    {
+        "code": "40",
+        "name": "Bandar Kluang"
+    },
+    {
+        "code": "41",
+        "name": "Bandar Paloh"
+    },
+    {
+        "code": "42",
+        "name": "Bandar Rengam"
+    }
+]

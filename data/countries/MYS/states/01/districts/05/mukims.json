@@ -1,0 +1,74 @@
+[
+    {
+        "code": "01",
+        "name": "Mukim Jemaluang"
+    },
+    {
+        "code": "02",
+        "name": "Mukim Lenggor"
+    },
+    {
+        "code": "03",
+        "name": "Mukim Mersing"
+    },
+    {
+        "code": "04",
+        "name": "Mukim Padang Endau"
+    },
+    {
+        "code": "05",
+        "name": "Mukim Penyabong"
+    },
+    {
+        "code": "06",
+        "name": "Mukim Pulau Aur"
+    },
+    {
+        "code": "07",
+        "name": "Mukim Pulau Babi"
+    },
+    {
+        "code": "08",
+        "name": "Mukim Pulau Pemanggil"
+    },
+    {
+        "code": "09",
+        "name": "Mukim Pulau Sibu"
+    },
+    {
+        "code": "10",
+        "name": "Mukim Pulau Tinggi"
+    },
+    {
+        "code": "11",
+        "name": "Mukim Sembrong"
+    },
+    {
+        "code": "12",
+        "name": "Mukim Tenggaroh"
+    },
+    {
+        "code": "13",
+        "name": "Mukim Tenglu"
+    },
+    {
+        "code": "14",
+        "name": "Mukim Triang"
+    },
+    {
+        "code": "40",
+        "name": "Bandar Jemaluang"
+    },
+    {
+        "code": "41",
+        "name": "Bandar Mersing"
+    },
+    {
+        "code": "42",
+        "name": "Bandar Mersing Kanan"
+    },
+    {
+        "code": "43",
+        "name": "Bandar Padang Endau"
+    }
+]

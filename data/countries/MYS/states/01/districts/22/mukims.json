@@ -1,0 +1,50 @@
+[
+    {
+        "code": "01",
+        "name": "Mukim Tangkak"
+    },
+    {
+        "code": "02",
+        "name": "Mukim Bukit Serampang"
+    },
+    {
+        "code": "03",
+        "name": "Mukim Grisek"
+    },
+    {
+        "code": "04",
+        "name": "Mukim Serom"
+    },
+    {
+        "code": "05",
+        "name": "Mukim Kundang"
+    },
+    {
+        "code": "06",
+        "name": "Mukim Kesang"
+    },
+    {
+        "code": "40",
+        "name": "Bandar Bukit Kangkar"
+    },
+    {
+        "code": "41",
+        "name": "Bandar Parit Bunga"
+    },
+    {
+        "code": "42",
+        "name": "Bandar Serom"
+    },
+    {
+        "code": "43",
+        "name": "Bandar Sungai Mati"
+    },
+    {
+        "code": "44",
+        "name": "Bandar Tangkak"
+    },
+    {
+        "code": "70",
+        "name": "Pekan Grisek"
+    }
+]
